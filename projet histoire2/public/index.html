@@ -1,0 +1,170 @@
+﻿<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Jeu DNB - Edition et Jeu</title>
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <div class="bg-shape bg-a"></div>
+    <div class="bg-shape bg-b"></div>
+    <main class="app">
+      <header class="top">
+        <h1>DNB - Mots Cles</h1>
+        <div class="tabs">
+          <button id="tab-edit" class="tab active">Mode Edition</button>
+          <button id="tab-game" class="tab">Mode Jeu</button>
+          <button id="tab-stats" class="tab">Stats</button>
+        </div>
+      </header>
+
+      <section id="shared-controls" class="panel">
+        <div class="grid-controls">
+          <label>
+            Theme
+            <select id="theme-select"></select>
+          </label>
+          <label>
+            Sujet
+            <select id="subject-select"></select>
+          </label>
+          <div class="status" id="subject-status"></div>
+        </div>
+      </section>
+
+      <section id="edit-view" class="view active">
+        <div class="panel text-panel">
+          <h2>Texte du sujet</h2>
+          <p class="hint">Selectionne un mot ou groupe de mots dans une phrase.</p>
+          <div id="phrases-list" class="phrases-list"></div>
+        </div>
+
+        <div class="panel editor-panel sticky-panel">
+          <h2>Ajouter un mot-cle</h2>
+          <div class="selection-box" id="selection-box">Aucune selection.</div>
+          <div class="editor-actions">
+            <label>
+              Points
+              <select id="points-select">
+                <option value="1">1 point</option>
+                <option value="2">2 points</option>
+                <option value="3">3 points</option>
+              </select>
+            </label>
+            <label class="inline-check">
+              <input type="checkbox" id="is-verb-checkbox" />
+              Verbe d'articulation
+            </label>
+            <button id="add-keyword-btn" class="btn primary" disabled>Ajouter</button>
+          </div>
+          <h3>Mots-cles existants</h3>
+          <div id="keywords-list" class="keywords-list"></div>
+        </div>
+      </section>
+
+      <section id="game-view" class="view">
+        <div class="panel game-top sticky-panel">
+          <div class="score-board">
+            <div>Score: <strong id="score">0</strong></div>
+            <div>Restants: <strong id="remaining">0</strong></div>
+          </div>
+          <div class="game-launch">
+            <label>
+              Mode
+              <select id="game-mode-select">
+                <option value="all">Tous les mots-cles</option>
+                <option value="verbs">Verbes d'articulation</option>
+                <option value="rest">Reste (hors verbes)</option>
+              </select>
+            </label>
+            <button id="start-game-btn" class="btn primary">Demarrer la partie</button>
+          </div>
+        </div>
+
+        <div class="panel game-text-panel">
+          <h2>Texte a trous</h2>
+          <p class="hint">Un seul trou par phrase. Clique un trou pour voir 10 propositions. Tu peux changer de trou tant que tu n'as pas valide de reponse.</p>
+          <div id="game-phrases" class="phrases-list"></div>
+        </div>
+
+        <div class="panel sticky-panel game-options-panel" id="options-panel">
+          <h2>Propositions</h2>
+          <p class="hint" id="game-help">Selectionne un trou pour afficher les choix.</p>
+          <div id="options-list" class="options-list"></div>
+          <div id="end-quiz" class="end-quiz hidden">
+            <h3>Bonus fin de partie</h3>
+            <p class="hint">Parmi les sujets du meme theme, lequel viens-tu de traiter ? (+5 points)</p>
+            <div class="end-quiz-row">
+              <select id="end-quiz-select"></select>
+              <button id="end-quiz-validate" class="btn primary">Valider +5</button>
+            </div>
+            <div id="end-quiz-result" class="end-quiz-result"></div>
+          </div>
+        </div>
+      </section>
+
+      <section id="stats-view" class="view">
+        <div class="panel sticky-panel">
+          <div class="stats-head">
+            <div>
+              <h2>Scores & parties terminees</h2>
+              <p class="hint">Terminee = tous les trous traites + quiz bonus valide.</p>
+            </div>
+            <button id="stats-refresh" class="btn">Rafraichir</button>
+          </div>
+          <div class="stats-filters">
+            <label>
+              Theme
+              <select id="stats-theme"></select>
+            </label>
+            <label>
+              DC (sujet)
+              <select id="stats-subject"></select>
+            </label>
+            <label>
+              Mode
+              <select id="stats-mode">
+                <option value="any">Tous</option>
+                <option value="all">Tous les mots-cles</option>
+                <option value="verbs">Verbes</option>
+                <option value="rest">Reste</option>
+              </select>
+            </label>
+            <label>
+              Vue
+              <select id="stats-view-select">
+                <option value="review">A revoir</option>
+                <option value="sessions">Dernieres parties</option>
+                <option value="themes">Par theme</option>
+                <option value="subjects">Par DC</option>
+              </select>
+            </label>
+          </div>
+          <div id="stats-cards" class="stats-cards"></div>
+        </div>
+
+        <div class="panel">
+          <h3 id="stats-table-title">Chargement…</h3>
+          <div class="table-wrap">
+            <table class="table" id="stats-table"></table>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <div id="burst-layer"></div>
+
+    <div id="completion-modal" class="modal hidden" role="dialog" aria-modal="true" aria-labelledby="completion-title">
+      <div class="modal-card">
+        <h2 id="completion-title">Partie terminee</h2>
+        <div id="completion-summary" class="completion-summary"></div>
+        <div class="modal-actions">
+          <button id="completion-close" class="btn">Fermer</button>
+          <button id="completion-open-stats" class="btn primary">Voir les scores</button>
+        </div>
+      </div>
+    </div>
+    <script src="/app.js"></script>
+  </body>
+</html>

@@ -1,0 +1,710 @@
+﻿[
+  {
+    "key": "Géographie - Aires urbaines|||Décrivez une aire urbaine et montrez le rôle des mobilités dans son organisation.",
+    "theme": "Géographie - Aires urbaines",
+    "sujet": "Décrivez une aire urbaine et montrez le rôle des mobilités dans son organisation.",
+    "keywords": [
+      {
+        "id": "mo5sopa6_4gogkl8",
+        "phraseIndex": 0,
+        "text": "aire urbaine",
+        "points": 2,
+        "isVerb": false,
+        "phraseSnapshot": "une aire urbaine est un espace composé d'une ville-centre, de sa banlieue et de sa couronne périurbaine.",
+        "createdAt": "2026-04-19T13:21:38.814Z"
+      },
+      {
+        "id": "mo5sp1wo_ndvqu5t",
+        "phraseIndex": 0,
+        "text": "composé",
+        "points": 1,
+        "isVerb": true,
+        "phraseSnapshot": "une aire urbaine est un espace composé d'une ville-centre, de sa banlieue et de sa couronne périurbaine.",
+        "createdAt": "2026-04-19T13:21:55.176Z"
+      },
+      {
+        "id": "mo5spa1i_voakvan",
+        "phraseIndex": 0,
+        "text": "ville-centre",
+        "points": 2,
+        "isVerb": false,
+        "phraseSnapshot": "une aire urbaine est un espace composé d'une ville-centre, de sa banlieue et de sa couronne périurbaine.",
+        "createdAt": "2026-04-19T13:22:05.718Z"
+      },
+      {
+        "id": "mo5spf1f_i8d3kx1",
+        "phraseIndex": 0,
+        "text": "banlieue",
+        "points": 2,
+        "isVerb": false,
+        "phraseSnapshot": "une aire urbaine est un espace composé d'une ville-centre, de sa banlieue et de sa couronne périurbaine.",
+        "createdAt": "2026-04-19T13:22:12.195Z"
+      },
+      {
+        "id": "mo5spj6z_8zmzjnw",
+        "phraseIndex": 0,
+        "text": "couronne périurbaine",
+        "points": 2,
+        "isVerb": false,
+        "phraseSnapshot": "une aire urbaine est un espace composé d'une ville-centre, de sa banlieue et de sa couronne périurbaine.",
+        "createdAt": "2026-04-19T13:22:17.579Z"
+      },
+      {
+        "id": "mo5sq1tb_lvwfiyl",
+        "phraseIndex": 1,
+        "text": "services",
+        "points": 2,
+        "isVerb": false,
+        "phraseSnapshot": "elle rassemble des populations, des emplois et des services organisés autour de la ville principale.",
+        "createdAt": "2026-04-19T13:22:41.711Z"
+      },
+      {
+        "id": "mo5sq8zi_el6su4a",
+        "phraseIndex": 1,
+        "text": "organisés",
+        "points": 1,
+        "isVerb": true,
+        "phraseSnapshot": "elle rassemble des populations, des emplois et des services organisés autour de la ville principale.",
+        "createdAt": "2026-04-19T13:22:51.006Z"
+      },
+      {
+        "id": "mo5sqjy8_z59oa7x",
+        "phraseIndex": 2,
+        "text": "mobilités",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "les mobilités jouent un rôle essentiel dans cette organisation.",
+        "createdAt": "2026-04-19T13:23:05.216Z"
+      },
+      {
+        "id": "mo5sqpip_1x12m9g",
+        "phraseIndex": 2,
+        "text": "jouent un rôle",
+        "points": 1,
+        "isVerb": true,
+        "phraseSnapshot": "les mobilités jouent un rôle essentiel dans cette organisation.",
+        "createdAt": "2026-04-19T13:23:12.433Z"
+      },
+      {
+        "id": "mo5sqzbh_afkebpc",
+        "phraseIndex": 3,
+        "text": "aire urbaine",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "d'abord, une aire urbaine est structurée en plusieurs parties.",
+        "createdAt": "2026-04-19T13:23:25.133Z"
+      },
+      {
+        "id": "mo5sr9o8_c3eeg7l",
+        "phraseIndex": 3,
+        "text": "structurée",
+        "points": 2,
+        "isVerb": true,
+        "phraseSnapshot": "d'abord, une aire urbaine est structurée en plusieurs parties.",
+        "createdAt": "2026-04-19T13:23:38.552Z"
+      },
+      {
+        "id": "mo5sre6p_q9fe36y",
+        "phraseIndex": 4,
+        "text": "ville-centre",
+        "points": 2,
+        "isVerb": false,
+        "phraseSnapshot": "la ville-centre concentre souvent les principales activités, les commerces, les administrations et les emplois.",
+        "createdAt": "2026-04-19T13:23:44.401Z"
+      },
+      {
+        "id": "mo5srkoj_6mavhhp",
+        "phraseIndex": 4,
+        "text": "concentre",
+        "points": 2,
+        "isVerb": true,
+        "phraseSnapshot": "la ville-centre concentre souvent les principales activités, les commerces, les administrations et les emplois.",
+        "createdAt": "2026-04-19T13:23:52.819Z"
+      },
+      {
+        "id": "mo5ss1qk_76swtvw",
+        "phraseIndex": 4,
+        "text": "administrations",
+        "points": 2,
+        "isVerb": false,
+        "phraseSnapshot": "la ville-centre concentre souvent les principales activités, les commerces, les administrations et les emplois.",
+        "createdAt": "2026-04-19T13:24:14.924Z"
+      },
+      {
+        "id": "mo5ss65u_iddna3k",
+        "phraseIndex": 4,
+        "text": "commerces",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "la ville-centre concentre souvent les principales activités, les commerces, les administrations et les emplois.",
+        "createdAt": "2026-04-19T13:24:20.658Z"
+      },
+      {
+        "id": "mo5ssa5v_ux60mpx",
+        "phraseIndex": 4,
+        "text": "emplois",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "la ville-centre concentre souvent les principales activités, les commerces, les administrations et les emplois.",
+        "createdAt": "2026-04-19T13:24:25.843Z"
+      },
+      {
+        "id": "mo5ssitc_uk844ph",
+        "phraseIndex": 5,
+        "text": "banlieue",
+        "points": 2,
+        "isVerb": false,
+        "phraseSnapshot": "la banlieue prolonge cet espace urbanisé.",
+        "createdAt": "2026-04-19T13:24:37.056Z"
+      },
+      {
+        "id": "mo5ssr0x_1wjhlml",
+        "phraseIndex": 5,
+        "text": "prolonge",
+        "points": 2,
+        "isVerb": true,
+        "phraseSnapshot": "la banlieue prolonge cet espace urbanisé.",
+        "createdAt": "2026-04-19T13:24:47.697Z"
+      },
+      {
+        "id": "mo5ssyww_m7yis4e",
+        "phraseIndex": 6,
+        "text": "couronne périurbaine",
+        "points": 2,
+        "isVerb": false,
+        "phraseSnapshot": "plus loin, la couronne périurbaine regroupe des communes où habitent de nombreuses personnes qui travaillent dans la ville ou dans les zones voisines.",
+        "createdAt": "2026-04-19T13:24:57.920Z"
+      },
+      {
+        "id": "mo5st5c4_8rfelt0",
+        "phraseIndex": 6,
+        "text": "regroupe",
+        "points": 2,
+        "isVerb": true,
+        "phraseSnapshot": "plus loin, la couronne périurbaine regroupe des communes où habitent de nombreuses personnes qui travaillent dans la ville ou dans les zones voisines.",
+        "createdAt": "2026-04-19T13:25:06.244Z"
+      },
+      {
+        "id": "mo5st9ym_c5w22ht",
+        "phraseIndex": 6,
+        "text": "communes",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "plus loin, la couronne périurbaine regroupe des communes où habitent de nombreuses personnes qui travaillent dans la ville ou dans les zones voisines.",
+        "createdAt": "2026-04-19T13:25:12.238Z"
+      },
+      {
+        "id": "mo5stpgh_962gi2w",
+        "phraseIndex": 7,
+        "text": "organisent",
+        "points": 1,
+        "isVerb": true,
+        "phraseSnapshot": "ensuite, les mobilités quotidiennes organisent cet espace.",
+        "createdAt": "2026-04-19T13:25:32.321Z"
+      },
+      {
+        "id": "mo5u3555_oelpy7d",
+        "phraseIndex": 1,
+        "text": "rassemble",
+        "points": 1,
+        "isVerb": true,
+        "phraseSnapshot": "elle rassemble des populations, des emplois et des services organisés autour de la ville principale.",
+        "createdAt": "2026-04-19T14:00:52.169Z"
+      },
+      {
+        "id": "mo5u3clu_mebuwby",
+        "phraseIndex": 1,
+        "text": "populations",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "elle rassemble des populations, des emplois et des services organisés autour de la ville principale.",
+        "createdAt": "2026-04-19T14:01:01.842Z"
+      },
+      {
+        "id": "mo5u3j74_6yhtcwf",
+        "phraseIndex": 1,
+        "text": "emplois",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "elle rassemble des populations, des emplois et des services organisés autour de la ville principale.",
+        "createdAt": "2026-04-19T14:01:10.384Z"
+      },
+      {
+        "id": "mo5u4uvc_bvt3c2e",
+        "phraseIndex": 6,
+        "text": "la ville",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "plus loin, la couronne périurbaine regroupe des communes où habitent de nombreuses personnes qui travaillent dans la ville ou dans les zones voisines.",
+        "createdAt": "2026-04-19T14:02:12.168Z"
+      },
+      {
+        "id": "mo5u6dy8_mbew62y",
+        "phraseIndex": 9,
+        "text": "mobilités pendulaires",
+        "points": 3,
+        "isVerb": false,
+        "phraseSnapshot": "ces trajets sont appelés mobilités pendulaires.",
+        "createdAt": "2026-04-19T14:03:23.553Z"
+      },
+      {
+        "id": "mo5u6m4g_npowqql",
+        "phraseIndex": 8,
+        "text": "Chaque jour",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "chaque jour, de nombreux habitants effectuent des déplacements entre leur domicile et leur lieu de travail, d'étude ou de consommation.",
+        "createdAt": "2026-04-19T14:03:34.144Z"
+      },
+      {
+        "id": "mo5u6t0l_7a50dpk",
+        "phraseIndex": 8,
+        "text": "effectuent",
+        "points": 1,
+        "isVerb": true,
+        "phraseSnapshot": "chaque jour, de nombreux habitants effectuent des déplacements entre leur domicile et leur lieu de travail, d'étude ou de consommation.",
+        "createdAt": "2026-04-19T14:03:43.077Z"
+      },
+      {
+        "id": "mo5u78iw_p3ear4f",
+        "phraseIndex": 9,
+        "text": "sont appelés",
+        "points": 1,
+        "isVerb": true,
+        "phraseSnapshot": "ces trajets sont appelés mobilités pendulaires.",
+        "createdAt": "2026-04-19T14:04:03.176Z"
+      },
+      {
+        "id": "mo5u7hw6_uvaww6f",
+        "phraseIndex": 10,
+        "text": "ville-centre",
+        "points": 2,
+        "isVerb": false,
+        "phraseSnapshot": "ils montrent que la ville-centre attire et structure tout l'espace autour d'elle.",
+        "createdAt": "2026-04-19T14:04:15.318Z"
+      },
+      {
+        "id": "mo5u7ntd_u9noj6j",
+        "phraseIndex": 10,
+        "text": "attire",
+        "points": 1,
+        "isVerb": true,
+        "phraseSnapshot": "ils montrent que la ville-centre attire et structure tout l'espace autour d'elle.",
+        "createdAt": "2026-04-19T14:04:22.993Z"
+      },
+      {
+        "id": "mo5u7xgq_7kbkwl6",
+        "phraseIndex": 10,
+        "text": "structure",
+        "points": 1,
+        "isVerb": true,
+        "phraseSnapshot": "ils montrent que la ville-centre attire et structure tout l'espace autour d'elle.",
+        "createdAt": "2026-04-19T14:04:35.498Z"
+      },
+      {
+        "id": "mo5u853z_fbazki2",
+        "phraseIndex": 11,
+        "text": "influencent",
+        "points": 1,
+        "isVerb": true,
+        "phraseSnapshot": "enfin, ces mobilités influencent l'évolution de l'aire urbaine.",
+        "createdAt": "2026-04-19T14:04:45.407Z"
+      },
+      {
+        "id": "mo5u8aqh_2i1kh55",
+        "phraseIndex": 12,
+        "text": "se déplacer",
+        "points": 1,
+        "isVerb": true,
+        "phraseSnapshot": "comme les habitants peuvent se d'placer facilement gr'ce aux routes, aux transports en commun ou � la voiture, l'urbanisation s'�tend plus loin.",
+        "createdAt": "2026-04-19T14:04:52.697Z"
+      },
+      {
+        "id": "mo5u94c7_hjhvckv",
+        "phraseIndex": 12,
+        "text": "routes",
+        "points": 2,
+        "isVerb": false,
+        "phraseSnapshot": "comme les habitants peuvent se d'placer facilement gr'ce aux routes, aux transports en commun ou � la voiture, l'urbanisation s'�tend plus loin.",
+        "createdAt": "2026-04-19T14:05:31.063Z"
+      },
+      {
+        "id": "mo5u98ga_i538000",
+        "phraseIndex": 12,
+        "text": "transports en commun",
+        "points": 2,
+        "isVerb": false,
+        "phraseSnapshot": "comme les habitants peuvent se d'placer facilement gr'ce aux routes, aux transports en commun ou � la voiture, l'urbanisation s'�tend plus loin.",
+        "createdAt": "2026-04-19T14:05:36.394Z"
+      },
+      {
+        "id": "mo5u9cn6_wbu2mor",
+        "phraseIndex": 12,
+        "text": "voiture",
+        "points": 2,
+        "isVerb": false,
+        "phraseSnapshot": "comme les habitants peuvent se d'placer facilement gr'ce aux routes, aux transports en commun ou � la voiture, l'urbanisation s'�tend plus loin.",
+        "createdAt": "2026-04-19T14:05:41.826Z"
+      },
+      {
+        "id": "mo5u9ijc_yp7lirs",
+        "phraseIndex": 12,
+        "text": "urbanisation",
+        "points": 2,
+        "isVerb": false,
+        "phraseSnapshot": "comme les habitants peuvent se d'placer facilement gr'ce aux routes, aux transports en commun ou � la voiture, l'urbanisation s'�tend plus loin.",
+        "createdAt": "2026-04-19T14:05:49.464Z"
+      },
+      {
+        "id": "mo5u9u3d_2w2bbic",
+        "phraseIndex": 13,
+        "text": "favorise",
+        "points": 1,
+        "isVerb": true,
+        "phraseSnapshot": "cela favorise le développement de la couronne périurbaine, des zones commerciales et des infrastructures de transport.",
+        "createdAt": "2026-04-19T14:06:04.441Z"
+      },
+      {
+        "id": "mo5u9z6r_w6j1uyt",
+        "phraseIndex": 13,
+        "text": "couronne périurbaine",
+        "points": 2,
+        "isVerb": false,
+        "phraseSnapshot": "cela favorise le développement de la couronne périurbaine, des zones commerciales et des infrastructures de transport.",
+        "createdAt": "2026-04-19T14:06:11.043Z"
+      },
+      {
+        "id": "mo5uaib4_xfhfsgr",
+        "phraseIndex": 14,
+        "text": "Ainsi",
+        "points": 1,
+        "isVerb": true,
+        "phraseSnapshot": "ainsi, une aire urbaine est organisée autour d'un centre et de périphéries reliées par de nombreux déplacements.",
+        "createdAt": "2026-04-19T14:06:35.824Z"
+      },
+      {
+        "id": "mo5uanbe_1tlz3x8",
+        "phraseIndex": 14,
+        "text": "organisée",
+        "points": 1,
+        "isVerb": true,
+        "phraseSnapshot": "ainsi, une aire urbaine est organisée autour d'un centre et de périphéries reliées par de nombreux déplacements.",
+        "createdAt": "2026-04-19T14:06:42.314Z"
+      },
+      {
+        "id": "mo5uat1p_v704kn9",
+        "phraseIndex": 14,
+        "text": "reliées",
+        "points": 1,
+        "isVerb": true,
+        "phraseSnapshot": "ainsi, une aire urbaine est organisée autour d'un centre et de périphéries reliées par de nombreux déplacements.",
+        "createdAt": "2026-04-19T14:06:49.741Z"
+      },
+      {
+        "id": "mo5ub8lz_px1ic3r",
+        "phraseIndex": 15,
+        "text": "essentielles",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "les mobilités sont donc essentielles pour comprendre son fonctionnement et son extension.",
+        "createdAt": "2026-04-19T14:07:09.911Z"
+      },
+      {
+        "id": "mo5ubftz_w68nc0g",
+        "phraseIndex": 15,
+        "text": "comprendre",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "les mobilités sont donc essentielles pour comprendre son fonctionnement et son extension.",
+        "createdAt": "2026-04-19T14:07:19.271Z"
+      }
+    ]
+  },
+  {
+    "key": "Géographie - Aires urbaines|||Expliquez pourquoi et comment les aires urbaines s'étendent.",
+    "theme": "Géographie - Aires urbaines",
+    "sujet": "Expliquez pourquoi et comment les aires urbaines s'étendent.",
+    "keywords": [
+      {
+        "id": "auto_mo5tp5fc_zcn76ax",
+        "phraseIndex": 0,
+        "text": "aires urbaines",
+        "points": 2,
+        "isVerb": false,
+        "phraseSnapshot": "en france, les aires urbaines s'étendent de plus en plus.",
+        "createdAt": "2026-04-19T13:49:59.352Z"
+      },
+      {
+        "id": "auto_mo5tp5fd_7uuwfdz",
+        "phraseIndex": 0,
+        "text": "s'étendent",
+        "points": 2,
+        "isVerb": false,
+        "phraseSnapshot": "en france, les aires urbaines s'étendent de plus en plus.",
+        "createdAt": "2026-04-19T13:49:59.353Z"
+      },
+      {
+        "id": "auto_mo5tp5fd_k22hpy3",
+        "phraseIndex": 1,
+        "text": "étalement urbain",
+        "points": 3,
+        "isVerb": false,
+        "phraseSnapshot": "ce phénomène s'appelle l'étalement urbain.",
+        "createdAt": "2026-04-19T13:49:59.353Z"
+      },
+      {
+        "id": "auto_mo5tp5fd_1fufbnd",
+        "phraseIndex": 2,
+        "text": "causes",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "il s'explique par plusieurs causes et transforme les espaces autour des villes.",
+        "createdAt": "2026-04-19T13:49:59.353Z"
+      },
+      {
+        "id": "auto_mo5tp5fd_vvngmuv",
+        "phraseIndex": 2,
+        "text": "transforme",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "il s'explique par plusieurs causes et transforme les espaces autour des villes.",
+        "createdAt": "2026-04-19T13:49:59.353Z"
+      },
+      {
+        "id": "auto_mo5tp5fd_0p4yq9h",
+        "phraseIndex": 2,
+        "text": "espaces",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "il s'explique par plusieurs causes et transforme les espaces autour des villes.",
+        "createdAt": "2026-04-19T13:49:59.353Z"
+      },
+      {
+        "id": "auto_mo5tp5fd_2zahf5d",
+        "phraseIndex": 3,
+        "text": "D'abord",
+        "points": 2,
+        "isVerb": true,
+        "phraseSnapshot": "d'abord, les aires urbaines s'étendent parce que de plus en plus de personnes vivent en ville ou à proximité des villes.",
+        "createdAt": "2026-04-19T13:49:59.353Z"
+      },
+      {
+        "id": "auto_mo5tp5fd_9d5n3ha",
+        "phraseIndex": 3,
+        "text": "proximité",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "d'abord, les aires urbaines s'étendent parce que de plus en plus de personnes vivent en ville ou à proximité des villes.",
+        "createdAt": "2026-04-19T13:49:59.353Z"
+      },
+      {
+        "id": "auto_mo5tp5fd_pu4nyzl",
+        "phraseIndex": 4,
+        "text": "logements",
+        "points": 2,
+        "isVerb": false,
+        "phraseSnapshot": "les habitants cherchent souvent des logements plus grands, moins chers ou plus calmes que dans le centre.",
+        "createdAt": "2026-04-19T13:49:59.353Z"
+      },
+      {
+        "id": "auto_mo5tp5fd_xpgwl0h",
+        "phraseIndex": 4,
+        "text": "centre",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "les habitants cherchent souvent des logements plus grands, moins chers ou plus calmes que dans le centre.",
+        "createdAt": "2026-04-19T13:49:59.353Z"
+      },
+      {
+        "id": "auto_mo5tp5fd_gpfuku6",
+        "phraseIndex": 5,
+        "text": "périphérie",
+        "points": 2,
+        "isVerb": false,
+        "phraseSnapshot": "ils s'installent donc en périphérie, dans la banlieue ou dans la couronne périurbaine.",
+        "createdAt": "2026-04-19T13:49:59.353Z"
+      },
+      {
+        "id": "auto_mo5tp5fd_p5lldi2",
+        "phraseIndex": 5,
+        "text": "banlieue",
+        "points": 2,
+        "isVerb": false,
+        "phraseSnapshot": "ils s'installent donc en périphérie, dans la banlieue ou dans la couronne périurbaine.",
+        "createdAt": "2026-04-19T13:49:59.353Z"
+      },
+      {
+        "id": "auto_mo5tp5fd_wem8az1",
+        "phraseIndex": 5,
+        "text": "couronne périurbaine",
+        "points": 3,
+        "isVerb": false,
+        "phraseSnapshot": "ils s'installent donc en périphérie, dans la banlieue ou dans la couronne périurbaine.",
+        "createdAt": "2026-04-19T13:49:59.353Z"
+      },
+      {
+        "id": "auto_mo5tp5fd_0w4ltrt",
+        "phraseIndex": 6,
+        "text": "Ensuite",
+        "points": 2,
+        "isVerb": true,
+        "phraseSnapshot": "ensuite, cet étalement est rendu possible par les mobilités.",
+        "createdAt": "2026-04-19T13:49:59.353Z"
+      },
+      {
+        "id": "auto_mo5tp5fd_0qo4d37",
+        "phraseIndex": 6,
+        "text": "mobilités",
+        "points": 3,
+        "isVerb": false,
+        "phraseSnapshot": "ensuite, cet étalement est rendu possible par les mobilités.",
+        "createdAt": "2026-04-19T13:49:59.353Z"
+      },
+      {
+        "id": "auto_mo5tp5fd_taxnzs5",
+        "phraseIndex": 7,
+        "text": "Gr'ce �",
+        "points": 2,
+        "isVerb": true,
+        "phraseSnapshot": "gr'ce � la voiture, aux routes et parfois aux transports en commun, les habitants peuvent vivre plus loin tout en travaillant en ville.",
+        "createdAt": "2026-04-19T13:49:59.353Z"
+      },
+      {
+        "id": "auto_mo5tp5fd_djjksqp",
+        "phraseIndex": 7,
+        "text": "voiture",
+        "points": 2,
+        "isVerb": false,
+        "phraseSnapshot": "gr'ce � la voiture, aux routes et parfois aux transports en commun, les habitants peuvent vivre plus loin tout en travaillant en ville.",
+        "createdAt": "2026-04-19T13:49:59.353Z"
+      },
+      {
+        "id": "auto_mo5tp5fd_sit2eqw",
+        "phraseIndex": 7,
+        "text": "routes",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "gr'ce � la voiture, aux routes et parfois aux transports en commun, les habitants peuvent vivre plus loin tout en travaillant en ville.",
+        "createdAt": "2026-04-19T13:49:59.353Z"
+      },
+      {
+        "id": "auto_mo5tp5fd_mgn8v12",
+        "phraseIndex": 7,
+        "text": "transports en commun",
+        "points": 2,
+        "isVerb": false,
+        "phraseSnapshot": "gr'ce � la voiture, aux routes et parfois aux transports en commun, les habitants peuvent vivre plus loin tout en travaillant en ville.",
+        "createdAt": "2026-04-19T13:49:59.353Z"
+      },
+      {
+        "id": "auto_mo5tp5fd_sq0cczq",
+        "phraseIndex": 8,
+        "text": "déplacements quotidiens",
+        "points": 2,
+        "isVerb": false,
+        "phraseSnapshot": "les déplacements quotidiens entre domicile et travail permettent donc à l'aire urbaine de s'agrandir.",
+        "createdAt": "2026-04-19T13:49:59.353Z"
+      },
+      {
+        "id": "auto_mo5tp5fd_yb12sxk",
+        "phraseIndex": 8,
+        "text": "domicile",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "les déplacements quotidiens entre domicile et travail permettent donc à l'aire urbaine de s'agrandir.",
+        "createdAt": "2026-04-19T13:49:59.353Z"
+      },
+      {
+        "id": "auto_mo5tp5fd_2xl6kph",
+        "phraseIndex": 8,
+        "text": "travail",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "les déplacements quotidiens entre domicile et travail permettent donc à l'aire urbaine de s'agrandir.",
+        "createdAt": "2026-04-19T13:49:59.353Z"
+      },
+      {
+        "id": "auto_mo5tp5fd_167a2pj",
+        "phraseIndex": 8,
+        "text": "s'agrandir",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "les déplacements quotidiens entre domicile et travail permettent donc à l'aire urbaine de s'agrandir.",
+        "createdAt": "2026-04-19T13:49:59.353Z"
+      },
+      {
+        "id": "auto_mo5tp5fd_3vbyvdq",
+        "phraseIndex": 9,
+        "text": "zones commerciales",
+        "points": 2,
+        "isVerb": false,
+        "phraseSnapshot": "les aires urbaines s'étendent aussi par la construction de nouveaux logements, de zones commerciales, d'activités et d'équipements en périphérie.",
+        "createdAt": "2026-04-19T13:49:59.353Z"
+      },
+      {
+        "id": "auto_mo5tp5fd_qmhzehf",
+        "phraseIndex": 9,
+        "text": "équipements",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "les aires urbaines s'étendent aussi par la construction de nouveaux logements, de zones commerciales, d'activités et d'équipements en périphérie.",
+        "createdAt": "2026-04-19T13:49:59.353Z"
+      },
+      {
+        "id": "auto_mo5tp5fd_jxfyjhd",
+        "phraseIndex": 10,
+        "text": "campagnes",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "les campagnes proches des villes sont peu à peu transformées par l'urbanisation.",
+        "createdAt": "2026-04-19T13:49:59.353Z"
+      },
+      {
+        "id": "auto_mo5tp5fd_kb9uukg",
+        "phraseIndex": 10,
+        "text": "urbanisation",
+        "points": 2,
+        "isVerb": false,
+        "phraseSnapshot": "les campagnes proches des villes sont peu à peu transformées par l'urbanisation.",
+        "createdAt": "2026-04-19T13:49:59.353Z"
+      },
+      {
+        "id": "auto_mo5tp5fd_9o4i4tj",
+        "phraseIndex": 11,
+        "text": "paysages",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "cela modifie les paysages et augmente les besoins en transport.",
+        "createdAt": "2026-04-19T13:49:59.353Z"
+      },
+      {
+        "id": "auto_mo5tp5fd_o1k0i88",
+        "phraseIndex": 11,
+        "text": "besoins en transport",
+        "points": 2,
+        "isVerb": false,
+        "phraseSnapshot": "cela modifie les paysages et augmente les besoins en transport.",
+        "createdAt": "2026-04-19T13:49:59.353Z"
+      },
+      {
+        "id": "auto_mo5tp5fd_wdjvq6a",
+        "phraseIndex": 12,
+        "text": "Ainsi",
+        "points": 2,
+        "isVerb": true,
+        "phraseSnapshot": "ainsi, les aires urbaines s'�tendent parce que les habitants s'installent de plus en plus loin du centre, et cela se fait gr'ce aux mobilit's et � l'urbanisation des espaces p'riph'riques.",
+        "createdAt": "2026-04-19T13:49:59.353Z"
+      },
+      {
+        "id": "auto_mo5tp5fd_1rzxzya",
+        "phraseIndex": 12,
+        "text": "espaces périphériques",
+        "points": 2,
+        "isVerb": false,
+        "phraseSnapshot": "ainsi, les aires urbaines s'�tendent parce que les habitants s'installent de plus en plus loin du centre, et cela se fait gr'ce aux mobilit's et � l'urbanisation des espaces p'riph'riques.",
+        "createdAt": "2026-04-19T13:49:59.353Z"
+      }
+    ]
+  }
+]
+

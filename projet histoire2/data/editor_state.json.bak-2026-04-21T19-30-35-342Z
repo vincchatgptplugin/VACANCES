@@ -1,0 +1,2702 @@
+﻿[
+  {
+    "key": "Géographie - Aires urbaines|||Décrivez une aire urbaine et montrez le rôle des mobilités dans son organisation.",
+    "theme": "Géographie - Aires urbaines",
+    "sujet": "Décrivez une aire urbaine et montrez le rôle des mobilités dans son organisation.",
+    "keywords": [
+      {
+        "id": "mo5sopa6_4gogkl8",
+        "phraseIndex": 0,
+        "text": "aire urbaine",
+        "points": 2,
+        "isVerb": false,
+        "phraseSnapshot": "une aire urbaine est un espace composé d'une ville-centre, de sa banlieue et de sa couronne périurbaine.",
+        "createdAt": "2026-04-19T13:21:38.814Z"
+      },
+      {
+        "id": "mo5sp1wo_ndvqu5t",
+        "phraseIndex": 0,
+        "text": "composé",
+        "points": 1,
+        "isVerb": true,
+        "phraseSnapshot": "une aire urbaine est un espace composé d'une ville-centre, de sa banlieue et de sa couronne périurbaine.",
+        "createdAt": "2026-04-19T13:21:55.176Z"
+      },
+      {
+        "id": "mo5spa1i_voakvan",
+        "phraseIndex": 0,
+        "text": "ville-centre",
+        "points": 2,
+        "isVerb": false,
+        "phraseSnapshot": "une aire urbaine est un espace composé d'une ville-centre, de sa banlieue et de sa couronne périurbaine.",
+        "createdAt": "2026-04-19T13:22:05.718Z"
+      },
+      {
+        "id": "mo5spf1f_i8d3kx1",
+        "phraseIndex": 0,
+        "text": "banlieue",
+        "points": 2,
+        "isVerb": false,
+        "phraseSnapshot": "une aire urbaine est un espace composé d'une ville-centre, de sa banlieue et de sa couronne périurbaine.",
+        "createdAt": "2026-04-19T13:22:12.195Z"
+      },
+      {
+        "id": "mo5spj6z_8zmzjnw",
+        "phraseIndex": 0,
+        "text": "couronne périurbaine",
+        "points": 2,
+        "isVerb": false,
+        "phraseSnapshot": "une aire urbaine est un espace composé d'une ville-centre, de sa banlieue et de sa couronne périurbaine.",
+        "createdAt": "2026-04-19T13:22:17.579Z"
+      },
+      {
+        "id": "mo5sq1tb_lvwfiyl",
+        "phraseIndex": 1,
+        "text": "services",
+        "points": 2,
+        "isVerb": false,
+        "phraseSnapshot": "elle rassemble des populations, des emplois et des services organisés autour de la ville principale.",
+        "createdAt": "2026-04-19T13:22:41.711Z"
+      },
+      {
+        "id": "mo5sq8zi_el6su4a",
+        "phraseIndex": 1,
+        "text": "organisés",
+        "points": 1,
+        "isVerb": true,
+        "phraseSnapshot": "elle rassemble des populations, des emplois et des services organisés autour de la ville principale.",
+        "createdAt": "2026-04-19T13:22:51.006Z"
+      },
+      {
+        "id": "mo5sqjy8_z59oa7x",
+        "phraseIndex": 2,
+        "text": "mobilités",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "les mobilités jouent un rôle essentiel dans cette organisation.",
+        "createdAt": "2026-04-19T13:23:05.216Z"
+      },
+      {
+        "id": "mo5sqpip_1x12m9g",
+        "phraseIndex": 2,
+        "text": "jouent un rôle",
+        "points": 1,
+        "isVerb": true,
+        "phraseSnapshot": "les mobilités jouent un rôle essentiel dans cette organisation.",
+        "createdAt": "2026-04-19T13:23:12.433Z"
+      },
+      {
+        "id": "mo5sqzbh_afkebpc",
+        "phraseIndex": 3,
+        "text": "aire urbaine",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "d'abord, une aire urbaine est structurée en plusieurs parties.",
+        "createdAt": "2026-04-19T13:23:25.133Z"
+      },
+      {
+        "id": "mo5sr9o8_c3eeg7l",
+        "phraseIndex": 3,
+        "text": "structurée",
+        "points": 2,
+        "isVerb": true,
+        "phraseSnapshot": "d'abord, une aire urbaine est structurée en plusieurs parties.",
+        "createdAt": "2026-04-19T13:23:38.552Z"
+      },
+      {
+        "id": "mo5sre6p_q9fe36y",
+        "phraseIndex": 4,
+        "text": "ville-centre",
+        "points": 2,
+        "isVerb": false,
+        "phraseSnapshot": "la ville-centre concentre souvent les principales activités, les commerces, les administrations et les emplois.",
+        "createdAt": "2026-04-19T13:23:44.401Z"
+      },
+      {
+        "id": "mo5srkoj_6mavhhp",
+        "phraseIndex": 4,
+        "text": "concentre",
+        "points": 2,
+        "isVerb": true,
+        "phraseSnapshot": "la ville-centre concentre souvent les principales activités, les commerces, les administrations et les emplois.",
+        "createdAt": "2026-04-19T13:23:52.819Z"
+      },
+      {
+        "id": "mo5ss1qk_76swtvw",
+        "phraseIndex": 4,
+        "text": "administrations",
+        "points": 2,
+        "isVerb": false,
+        "phraseSnapshot": "la ville-centre concentre souvent les principales activités, les commerces, les administrations et les emplois.",
+        "createdAt": "2026-04-19T13:24:14.924Z"
+      },
+      {
+        "id": "mo5ss65u_iddna3k",
+        "phraseIndex": 4,
+        "text": "commerces",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "la ville-centre concentre souvent les principales activités, les commerces, les administrations et les emplois.",
+        "createdAt": "2026-04-19T13:24:20.658Z"
+      },
+      {
+        "id": "mo5ssa5v_ux60mpx",
+        "phraseIndex": 4,
+        "text": "emplois",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "la ville-centre concentre souvent les principales activités, les commerces, les administrations et les emplois.",
+        "createdAt": "2026-04-19T13:24:25.843Z"
+      },
+      {
+        "id": "mo5ssitc_uk844ph",
+        "phraseIndex": 5,
+        "text": "banlieue",
+        "points": 2,
+        "isVerb": false,
+        "phraseSnapshot": "la banlieue prolonge cet espace urbanisé.",
+        "createdAt": "2026-04-19T13:24:37.056Z"
+      },
+      {
+        "id": "mo5ssr0x_1wjhlml",
+        "phraseIndex": 5,
+        "text": "prolonge",
+        "points": 2,
+        "isVerb": true,
+        "phraseSnapshot": "la banlieue prolonge cet espace urbanisé.",
+        "createdAt": "2026-04-19T13:24:47.697Z"
+      },
+      {
+        "id": "mo5ssyww_m7yis4e",
+        "phraseIndex": 6,
+        "text": "couronne périurbaine",
+        "points": 2,
+        "isVerb": false,
+        "phraseSnapshot": "plus loin, la couronne périurbaine regroupe des communes où habitent de nombreuses personnes qui travaillent dans la ville ou dans les zones voisines.",
+        "createdAt": "2026-04-19T13:24:57.920Z"
+      },
+      {
+        "id": "mo5st5c4_8rfelt0",
+        "phraseIndex": 6,
+        "text": "regroupe",
+        "points": 2,
+        "isVerb": true,
+        "phraseSnapshot": "plus loin, la couronne périurbaine regroupe des communes où habitent de nombreuses personnes qui travaillent dans la ville ou dans les zones voisines.",
+        "createdAt": "2026-04-19T13:25:06.244Z"
+      },
+      {
+        "id": "mo5st9ym_c5w22ht",
+        "phraseIndex": 6,
+        "text": "communes",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "plus loin, la couronne périurbaine regroupe des communes où habitent de nombreuses personnes qui travaillent dans la ville ou dans les zones voisines.",
+        "createdAt": "2026-04-19T13:25:12.238Z"
+      },
+      {
+        "id": "mo5stpgh_962gi2w",
+        "phraseIndex": 7,
+        "text": "organisent",
+        "points": 1,
+        "isVerb": true,
+        "phraseSnapshot": "ensuite, les mobilités quotidiennes organisent cet espace.",
+        "createdAt": "2026-04-19T13:25:32.321Z"
+      },
+      {
+        "id": "mo5u3555_oelpy7d",
+        "phraseIndex": 1,
+        "text": "rassemble",
+        "points": 1,
+        "isVerb": true,
+        "phraseSnapshot": "elle rassemble des populations, des emplois et des services organisés autour de la ville principale.",
+        "createdAt": "2026-04-19T14:00:52.169Z"
+      },
+      {
+        "id": "mo5u3clu_mebuwby",
+        "phraseIndex": 1,
+        "text": "populations",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "elle rassemble des populations, des emplois et des services organisés autour de la ville principale.",
+        "createdAt": "2026-04-19T14:01:01.842Z"
+      },
+      {
+        "id": "mo5u3j74_6yhtcwf",
+        "phraseIndex": 1,
+        "text": "emplois",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "elle rassemble des populations, des emplois et des services organisés autour de la ville principale.",
+        "createdAt": "2026-04-19T14:01:10.384Z"
+      },
+      {
+        "id": "mo5u4uvc_bvt3c2e",
+        "phraseIndex": 6,
+        "text": "la ville",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "plus loin, la couronne périurbaine regroupe des communes où habitent de nombreuses personnes qui travaillent dans la ville ou dans les zones voisines.",
+        "createdAt": "2026-04-19T14:02:12.168Z"
+      },
+      {
+        "id": "mo5u6dy8_mbew62y",
+        "phraseIndex": 9,
+        "text": "mobilités pendulaires",
+        "points": 3,
+        "isVerb": false,
+        "phraseSnapshot": "ces trajets sont appelés mobilités pendulaires.",
+        "createdAt": "2026-04-19T14:03:23.553Z"
+      },
+      {
+        "id": "mo5u6m4g_npowqql",
+        "phraseIndex": 8,
+        "text": "Chaque jour",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "chaque jour, de nombreux habitants effectuent des déplacements entre leur domicile et leur lieu de travail, d'étude ou de consommation.",
+        "createdAt": "2026-04-19T14:03:34.144Z"
+      },
+      {
+        "id": "mo5u6t0l_7a50dpk",
+        "phraseIndex": 8,
+        "text": "effectuent",
+        "points": 1,
+        "isVerb": true,
+        "phraseSnapshot": "chaque jour, de nombreux habitants effectuent des déplacements entre leur domicile et leur lieu de travail, d'étude ou de consommation.",
+        "createdAt": "2026-04-19T14:03:43.077Z"
+      },
+      {
+        "id": "mo5u78iw_p3ear4f",
+        "phraseIndex": 9,
+        "text": "sont appelés",
+        "points": 1,
+        "isVerb": true,
+        "phraseSnapshot": "ces trajets sont appelés mobilités pendulaires.",
+        "createdAt": "2026-04-19T14:04:03.176Z"
+      },
+      {
+        "id": "mo5u7hw6_uvaww6f",
+        "phraseIndex": 10,
+        "text": "ville-centre",
+        "points": 2,
+        "isVerb": false,
+        "phraseSnapshot": "ils montrent que la ville-centre attire et structure tout l'espace autour d'elle.",
+        "createdAt": "2026-04-19T14:04:15.318Z"
+      },
+      {
+        "id": "mo5u7ntd_u9noj6j",
+        "phraseIndex": 10,
+        "text": "attire",
+        "points": 1,
+        "isVerb": true,
+        "phraseSnapshot": "ils montrent que la ville-centre attire et structure tout l'espace autour d'elle.",
+        "createdAt": "2026-04-19T14:04:22.993Z"
+      },
+      {
+        "id": "mo5u7xgq_7kbkwl6",
+        "phraseIndex": 10,
+        "text": "structure",
+        "points": 1,
+        "isVerb": true,
+        "phraseSnapshot": "ils montrent que la ville-centre attire et structure tout l'espace autour d'elle.",
+        "createdAt": "2026-04-19T14:04:35.498Z"
+      },
+      {
+        "id": "mo5u853z_fbazki2",
+        "phraseIndex": 11,
+        "text": "influencent",
+        "points": 1,
+        "isVerb": true,
+        "phraseSnapshot": "enfin, ces mobilités influencent l'évolution de l'aire urbaine.",
+        "createdAt": "2026-04-19T14:04:45.407Z"
+      },
+      {
+        "id": "mo5u8aqh_2i1kh55",
+        "phraseIndex": 12,
+        "text": "se déplacer",
+        "points": 1,
+        "isVerb": true,
+        "phraseSnapshot": "comme les habitants peuvent se d�placer facilement gr�ce aux routes, aux transports en commun ou � la voiture, l\u0019urbanisation s\u0019�tend plus loin.",
+        "createdAt": "2026-04-19T14:04:52.697Z"
+      },
+      {
+        "id": "mo5u94c7_hjhvckv",
+        "phraseIndex": 12,
+        "text": "routes",
+        "points": 2,
+        "isVerb": false,
+        "phraseSnapshot": "comme les habitants peuvent se d�placer facilement gr�ce aux routes, aux transports en commun ou � la voiture, l\u0019urbanisation s\u0019�tend plus loin.",
+        "createdAt": "2026-04-19T14:05:31.063Z"
+      },
+      {
+        "id": "mo5u98ga_i538000",
+        "phraseIndex": 12,
+        "text": "transports en commun",
+        "points": 2,
+        "isVerb": false,
+        "phraseSnapshot": "comme les habitants peuvent se d�placer facilement gr�ce aux routes, aux transports en commun ou � la voiture, l\u0019urbanisation s\u0019�tend plus loin.",
+        "createdAt": "2026-04-19T14:05:36.394Z"
+      },
+      {
+        "id": "mo5u9cn6_wbu2mor",
+        "phraseIndex": 12,
+        "text": "voiture",
+        "points": 2,
+        "isVerb": false,
+        "phraseSnapshot": "comme les habitants peuvent se d�placer facilement gr�ce aux routes, aux transports en commun ou � la voiture, l\u0019urbanisation s\u0019�tend plus loin.",
+        "createdAt": "2026-04-19T14:05:41.826Z"
+      },
+      {
+        "id": "mo5u9ijc_yp7lirs",
+        "phraseIndex": 12,
+        "text": "urbanisation",
+        "points": 2,
+        "isVerb": false,
+        "phraseSnapshot": "comme les habitants peuvent se d�placer facilement gr�ce aux routes, aux transports en commun ou � la voiture, l\u0019urbanisation s\u0019�tend plus loin.",
+        "createdAt": "2026-04-19T14:05:49.464Z"
+      },
+      {
+        "id": "mo5u9u3d_2w2bbic",
+        "phraseIndex": 13,
+        "text": "favorise",
+        "points": 1,
+        "isVerb": true,
+        "phraseSnapshot": "cela favorise le développement de la couronne périurbaine, des zones commerciales et des infrastructures de transport.",
+        "createdAt": "2026-04-19T14:06:04.441Z"
+      },
+      {
+        "id": "mo5u9z6r_w6j1uyt",
+        "phraseIndex": 13,
+        "text": "couronne périurbaine",
+        "points": 2,
+        "isVerb": false,
+        "phraseSnapshot": "cela favorise le développement de la couronne périurbaine, des zones commerciales et des infrastructures de transport.",
+        "createdAt": "2026-04-19T14:06:11.043Z"
+      },
+      {
+        "id": "mo5uaib4_xfhfsgr",
+        "phraseIndex": 14,
+        "text": "Ainsi",
+        "points": 1,
+        "isVerb": true,
+        "phraseSnapshot": "ainsi, une aire urbaine est organisée autour d'un centre et de périphéries reliées par de nombreux déplacements.",
+        "createdAt": "2026-04-19T14:06:35.824Z"
+      },
+      {
+        "id": "mo5uanbe_1tlz3x8",
+        "phraseIndex": 14,
+        "text": "organisée",
+        "points": 1,
+        "isVerb": true,
+        "phraseSnapshot": "ainsi, une aire urbaine est organisée autour d'un centre et de périphéries reliées par de nombreux déplacements.",
+        "createdAt": "2026-04-19T14:06:42.314Z"
+      },
+      {
+        "id": "mo5uat1p_v704kn9",
+        "phraseIndex": 14,
+        "text": "reliées",
+        "points": 1,
+        "isVerb": true,
+        "phraseSnapshot": "ainsi, une aire urbaine est organisée autour d'un centre et de périphéries reliées par de nombreux déplacements.",
+        "createdAt": "2026-04-19T14:06:49.741Z"
+      },
+      {
+        "id": "mo5ub8lz_px1ic3r",
+        "phraseIndex": 15,
+        "text": "essentielles",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "les mobilités sont donc essentielles pour comprendre son fonctionnement et son extension.",
+        "createdAt": "2026-04-19T14:07:09.911Z"
+      },
+      {
+        "id": "mo5ubftz_w68nc0g",
+        "phraseIndex": 15,
+        "text": "comprendre",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "les mobilités sont donc essentielles pour comprendre son fonctionnement et son extension.",
+        "createdAt": "2026-04-19T14:07:19.271Z"
+      },
+      {
+        "id": "mo64mft8_qadid96",
+        "phraseIndex": 13,
+        "text": "zones commerciales",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "cela favorise le développement de la couronne périurbaine, des zones commerciales et des infrastructures de transport.",
+        "createdAt": "2026-04-19T18:55:48.620Z"
+      },
+      {
+        "id": "mo64ml5n_m2bukgx",
+        "phraseIndex": 13,
+        "text": "infrastructures de transport",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "cela favorise le développement de la couronne périurbaine, des zones commerciales et des infrastructures de transport.",
+        "createdAt": "2026-04-19T18:55:55.547Z"
+      }
+    ]
+  },
+  {
+    "key": "Géographie - Aires urbaines|||Expliquez pourquoi et comment les aires urbaines s'étendent.",
+    "theme": "Géographie - Aires urbaines",
+    "sujet": "Expliquez pourquoi et comment les aires urbaines s'étendent.",
+    "keywords": [
+      {
+        "id": "auto_mo5tp5fc_zcn76ax",
+        "phraseIndex": 0,
+        "text": "aires urbaines",
+        "points": 2,
+        "isVerb": false,
+        "phraseSnapshot": "en france, les aires urbaines s'étendent de plus en plus.",
+        "createdAt": "2026-04-19T13:49:59.352Z"
+      },
+      {
+        "id": "auto_mo5tp5fd_7uuwfdz",
+        "phraseIndex": 0,
+        "text": "s'étendent",
+        "points": 2,
+        "isVerb": false,
+        "phraseSnapshot": "en france, les aires urbaines s'étendent de plus en plus.",
+        "createdAt": "2026-04-19T13:49:59.353Z"
+      },
+      {
+        "id": "auto_mo5tp5fd_k22hpy3",
+        "phraseIndex": 1,
+        "text": "étalement urbain",
+        "points": 3,
+        "isVerb": false,
+        "phraseSnapshot": "ce phénomène s'appelle l'étalement urbain.",
+        "createdAt": "2026-04-19T13:49:59.353Z"
+      },
+      {
+        "id": "auto_mo5tp5fd_1fufbnd",
+        "phraseIndex": 2,
+        "text": "causes",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "il s'explique par plusieurs causes et transforme les espaces autour des villes.",
+        "createdAt": "2026-04-19T13:49:59.353Z"
+      },
+      {
+        "id": "auto_mo5tp5fd_vvngmuv",
+        "phraseIndex": 2,
+        "text": "transforme",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "il s'explique par plusieurs causes et transforme les espaces autour des villes.",
+        "createdAt": "2026-04-19T13:49:59.353Z"
+      },
+      {
+        "id": "auto_mo5tp5fd_0p4yq9h",
+        "phraseIndex": 2,
+        "text": "espaces",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "il s'explique par plusieurs causes et transforme les espaces autour des villes.",
+        "createdAt": "2026-04-19T13:49:59.353Z"
+      },
+      {
+        "id": "auto_mo5tp5fd_2zahf5d",
+        "phraseIndex": 3,
+        "text": "D'abord",
+        "points": 2,
+        "isVerb": true,
+        "phraseSnapshot": "d'abord, les aires urbaines s'étendent parce que de plus en plus de personnes vivent en ville ou à proximité des villes.",
+        "createdAt": "2026-04-19T13:49:59.353Z"
+      },
+      {
+        "id": "auto_mo5tp5fd_9d5n3ha",
+        "phraseIndex": 3,
+        "text": "proximité",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "d'abord, les aires urbaines s'étendent parce que de plus en plus de personnes vivent en ville ou à proximité des villes.",
+        "createdAt": "2026-04-19T13:49:59.353Z"
+      },
+      {
+        "id": "auto_mo5tp5fd_pu4nyzl",
+        "phraseIndex": 4,
+        "text": "logements",
+        "points": 2,
+        "isVerb": false,
+        "phraseSnapshot": "les habitants cherchent souvent des logements plus grands, moins chers ou plus calmes que dans le centre.",
+        "createdAt": "2026-04-19T13:49:59.353Z"
+      },
+      {
+        "id": "auto_mo5tp5fd_xpgwl0h",
+        "phraseIndex": 4,
+        "text": "centre",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "les habitants cherchent souvent des logements plus grands, moins chers ou plus calmes que dans le centre.",
+        "createdAt": "2026-04-19T13:49:59.353Z"
+      },
+      {
+        "id": "auto_mo5tp5fd_gpfuku6",
+        "phraseIndex": 5,
+        "text": "périphérie",
+        "points": 2,
+        "isVerb": false,
+        "phraseSnapshot": "ils s'installent donc en périphérie, dans la banlieue ou dans la couronne périurbaine.",
+        "createdAt": "2026-04-19T13:49:59.353Z"
+      },
+      {
+        "id": "auto_mo5tp5fd_p5lldi2",
+        "phraseIndex": 5,
+        "text": "banlieue",
+        "points": 2,
+        "isVerb": false,
+        "phraseSnapshot": "ils s'installent donc en périphérie, dans la banlieue ou dans la couronne périurbaine.",
+        "createdAt": "2026-04-19T13:49:59.353Z"
+      },
+      {
+        "id": "auto_mo5tp5fd_wem8az1",
+        "phraseIndex": 5,
+        "text": "couronne périurbaine",
+        "points": 3,
+        "isVerb": false,
+        "phraseSnapshot": "ils s'installent donc en périphérie, dans la banlieue ou dans la couronne périurbaine.",
+        "createdAt": "2026-04-19T13:49:59.353Z"
+      },
+      {
+        "id": "auto_mo5tp5fd_0w4ltrt",
+        "phraseIndex": 6,
+        "text": "Ensuite",
+        "points": 2,
+        "isVerb": true,
+        "phraseSnapshot": "ensuite, cet étalement est rendu possible par les mobilités.",
+        "createdAt": "2026-04-19T13:49:59.353Z"
+      },
+      {
+        "id": "auto_mo5tp5fd_0qo4d37",
+        "phraseIndex": 6,
+        "text": "mobilités",
+        "points": 3,
+        "isVerb": false,
+        "phraseSnapshot": "ensuite, cet étalement est rendu possible par les mobilités.",
+        "createdAt": "2026-04-19T13:49:59.353Z"
+      },
+      {
+        "id": "auto_mo5tp5fd_taxnzs5",
+        "phraseIndex": 7,
+        "text": "Gr�ce �",
+        "points": 2,
+        "isVerb": true,
+        "phraseSnapshot": "Gr�ce � la voiture, aux routes et parfois aux transports en commun, les habitants peuvent vivre plus loin tout en travaillant en ville.",
+        "createdAt": "2026-04-19T13:49:59.353Z"
+      },
+      {
+        "id": "auto_mo5tp5fd_djjksqp",
+        "phraseIndex": 7,
+        "text": "voiture",
+        "points": 2,
+        "isVerb": false,
+        "phraseSnapshot": "Gr�ce � la voiture, aux routes et parfois aux transports en commun, les habitants peuvent vivre plus loin tout en travaillant en ville.",
+        "createdAt": "2026-04-19T13:49:59.353Z"
+      },
+      {
+        "id": "auto_mo5tp5fd_sit2eqw",
+        "phraseIndex": 7,
+        "text": "routes",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "Gr�ce � la voiture, aux routes et parfois aux transports en commun, les habitants peuvent vivre plus loin tout en travaillant en ville.",
+        "createdAt": "2026-04-19T13:49:59.353Z"
+      },
+      {
+        "id": "auto_mo5tp5fd_mgn8v12",
+        "phraseIndex": 7,
+        "text": "transports en commun",
+        "points": 2,
+        "isVerb": false,
+        "phraseSnapshot": "Gr�ce � la voiture, aux routes et parfois aux transports en commun, les habitants peuvent vivre plus loin tout en travaillant en ville.",
+        "createdAt": "2026-04-19T13:49:59.353Z"
+      },
+      {
+        "id": "auto_mo5tp5fd_sq0cczq",
+        "phraseIndex": 8,
+        "text": "déplacements quotidiens",
+        "points": 2,
+        "isVerb": false,
+        "phraseSnapshot": "les déplacements quotidiens entre domicile et travail permettent donc à l'aire urbaine de s'agrandir.",
+        "createdAt": "2026-04-19T13:49:59.353Z"
+      },
+      {
+        "id": "auto_mo5tp5fd_yb12sxk",
+        "phraseIndex": 8,
+        "text": "domicile",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "les déplacements quotidiens entre domicile et travail permettent donc à l'aire urbaine de s'agrandir.",
+        "createdAt": "2026-04-19T13:49:59.353Z"
+      },
+      {
+        "id": "auto_mo5tp5fd_2xl6kph",
+        "phraseIndex": 8,
+        "text": "travail",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "les déplacements quotidiens entre domicile et travail permettent donc à l'aire urbaine de s'agrandir.",
+        "createdAt": "2026-04-19T13:49:59.353Z"
+      },
+      {
+        "id": "auto_mo5tp5fd_167a2pj",
+        "phraseIndex": 8,
+        "text": "s'agrandir",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "les déplacements quotidiens entre domicile et travail permettent donc à l'aire urbaine de s'agrandir.",
+        "createdAt": "2026-04-19T13:49:59.353Z"
+      },
+      {
+        "id": "auto_mo5tp5fd_3vbyvdq",
+        "phraseIndex": 9,
+        "text": "zones commerciales",
+        "points": 2,
+        "isVerb": false,
+        "phraseSnapshot": "les aires urbaines s'étendent aussi par la construction de nouveaux logements, de zones commerciales, d'activités et d'équipements en périphérie.",
+        "createdAt": "2026-04-19T13:49:59.353Z"
+      },
+      {
+        "id": "auto_mo5tp5fd_qmhzehf",
+        "phraseIndex": 9,
+        "text": "équipements",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "les aires urbaines s'étendent aussi par la construction de nouveaux logements, de zones commerciales, d'activités et d'équipements en périphérie.",
+        "createdAt": "2026-04-19T13:49:59.353Z"
+      },
+      {
+        "id": "auto_mo5tp5fd_jxfyjhd",
+        "phraseIndex": 10,
+        "text": "campagnes",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "les campagnes proches des villes sont peu à peu transformées par l'urbanisation.",
+        "createdAt": "2026-04-19T13:49:59.353Z"
+      },
+      {
+        "id": "auto_mo5tp5fd_kb9uukg",
+        "phraseIndex": 10,
+        "text": "urbanisation",
+        "points": 2,
+        "isVerb": false,
+        "phraseSnapshot": "les campagnes proches des villes sont peu à peu transformées par l'urbanisation.",
+        "createdAt": "2026-04-19T13:49:59.353Z"
+      },
+      {
+        "id": "auto_mo5tp5fd_9o4i4tj",
+        "phraseIndex": 11,
+        "text": "paysages",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "cela modifie les paysages et augmente les besoins en transport.",
+        "createdAt": "2026-04-19T13:49:59.353Z"
+      },
+      {
+        "id": "auto_mo5tp5fd_o1k0i88",
+        "phraseIndex": 11,
+        "text": "besoins en transport",
+        "points": 2,
+        "isVerb": false,
+        "phraseSnapshot": "cela modifie les paysages et augmente les besoins en transport.",
+        "createdAt": "2026-04-19T13:49:59.353Z"
+      },
+      {
+        "id": "auto_mo5tp5fd_wdjvq6a",
+        "phraseIndex": 12,
+        "text": "Ainsi",
+        "points": 2,
+        "isVerb": true,
+        "phraseSnapshot": "ainsi, les aires urbaines s\u0019�tendent parce que les habitants s\u0019installent de plus en plus loin du centre, et cela se fait gr�ce aux mobilit�s et � l\u0019urbanisation des espaces p�riph�riques.",
+        "createdAt": "2026-04-19T13:49:59.353Z"
+      },
+      {
+        "id": "auto_mo5tp5fd_1rzxzya",
+        "phraseIndex": 12,
+        "text": "espaces périphériques",
+        "points": 2,
+        "isVerb": false,
+        "phraseSnapshot": "ainsi, les aires urbaines s\u0019�tendent parce que les habitants s\u0019installent de plus en plus loin du centre, et cela se fait gr�ce aux mobilit�s et � l\u0019urbanisation des espaces p�riph�riques.",
+        "createdAt": "2026-04-19T13:49:59.353Z"
+      },
+      {
+        "id": "mo64o1g9_y44fjqr",
+        "phraseIndex": 12,
+        "text": "aires urbaines",
+        "points": 2,
+        "isVerb": false,
+        "phraseSnapshot": "ainsi, les aires urbaines s\u0019�tendent parce que les habitants s\u0019installent de plus en plus loin du centre, et cela se fait gr�ce aux mobilit�s et � l\u0019urbanisation des espaces p�riph�riques.",
+        "createdAt": "2026-04-19T18:57:03.321Z"
+      },
+      {
+        "id": "mo64o8mn_m5t96c0",
+        "phraseIndex": 12,
+        "text": "s'étendent",
+        "points": 1,
+        "isVerb": true,
+        "phraseSnapshot": "ainsi, les aires urbaines s\u0019�tendent parce que les habitants s\u0019installent de plus en plus loin du centre, et cela se fait gr�ce aux mobilit�s et � l\u0019urbanisation des espaces p�riph�riques.",
+        "createdAt": "2026-04-19T18:57:12.623Z"
+      },
+      {
+        "id": "mo64osgs_1dxwhc5",
+        "phraseIndex": 12,
+        "text": "mobilités",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "ainsi, les aires urbaines s\u0019�tendent parce que les habitants s\u0019installent de plus en plus loin du centre, et cela se fait gr�ce aux mobilit�s et � l\u0019urbanisation des espaces p�riph�riques.",
+        "createdAt": "2026-04-19T18:57:38.332Z"
+      },
+      {
+        "id": "mo64oze9_r8jsyqt",
+        "phraseIndex": 12,
+        "text": "urbanisation",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "ainsi, les aires urbaines s\u0019�tendent parce que les habitants s\u0019installent de plus en plus loin du centre, et cela se fait gr�ce aux mobilit�s et � l\u0019urbanisation des espaces p�riph�riques.",
+        "createdAt": "2026-04-19T18:57:47.313Z"
+      },
+      {
+        "id": "mo64pa6c_dxgmxo7",
+        "phraseIndex": 9,
+        "text": "s'étendent",
+        "points": 1,
+        "isVerb": true,
+        "phraseSnapshot": "les aires urbaines s'étendent aussi par la construction de nouveaux logements, de zones commerciales, d'activités et d'équipements en périphérie.",
+        "createdAt": "2026-04-19T18:58:01.284Z"
+      },
+      {
+        "id": "mo64ph6t_vt2v1n6",
+        "phraseIndex": 9,
+        "text": "construction de nouveaux logements",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "les aires urbaines s'étendent aussi par la construction de nouveaux logements, de zones commerciales, d'activités et d'équipements en périphérie.",
+        "createdAt": "2026-04-19T18:58:10.373Z"
+      },
+      {
+        "id": "mo64pnej_rh6sdke",
+        "phraseIndex": 9,
+        "text": "périphérie",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "les aires urbaines s'étendent aussi par la construction de nouveaux logements, de zones commerciales, d'activités et d'équipements en périphérie.",
+        "createdAt": "2026-04-19T18:58:18.427Z"
+      },
+      {
+        "id": "mo64pt86_h1ybwhb",
+        "phraseIndex": 6,
+        "text": "étalement",
+        "points": 3,
+        "isVerb": false,
+        "phraseSnapshot": "ensuite, cet étalement est rendu possible par les mobilités.",
+        "createdAt": "2026-04-19T18:58:25.974Z"
+      },
+      {
+        "id": "mo64q1to_5ysco99",
+        "phraseIndex": 4,
+        "text": "habitants",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "les habitants cherchent souvent des logements plus grands, moins chers ou plus calmes que dans le centre.",
+        "createdAt": "2026-04-19T18:58:37.116Z"
+      },
+      {
+        "id": "mo64qp2v_5n2vgc5",
+        "phraseIndex": 4,
+        "text": "moins chers",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "les habitants cherchent souvent des logements plus grands, moins chers ou plus calmes que dans le centre.",
+        "createdAt": "2026-04-19T18:59:07.255Z"
+      },
+      {
+        "id": "mo64qrwk_sjf36ti",
+        "phraseIndex": 4,
+        "text": "plus calmes",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "les habitants cherchent souvent des logements plus grands, moins chers ou plus calmes que dans le centre.",
+        "createdAt": "2026-04-19T18:59:10.916Z"
+      },
+      {
+        "id": "mo64rano_3mfhne8",
+        "phraseIndex": 7,
+        "text": "plus loin",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "Gr�ce � la voiture, aux routes et parfois aux transports en commun, les habitants peuvent vivre plus loin tout en travaillant en ville.",
+        "createdAt": "2026-04-19T18:59:35.220Z"
+      },
+      {
+        "id": "mo64rjio_ykx25v1",
+        "phraseIndex": 8,
+        "text": "aire urbaine",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "les déplacements quotidiens entre domicile et travail permettent donc à l'aire urbaine de s'agrandir.",
+        "createdAt": "2026-04-19T18:59:46.704Z"
+      },
+      {
+        "id": "mo64rwk3_i4greuk",
+        "phraseIndex": 10,
+        "text": "transformées",
+        "points": 1,
+        "isVerb": true,
+        "phraseSnapshot": "les campagnes proches des villes sont peu à peu transformées par l'urbanisation.",
+        "createdAt": "2026-04-19T19:00:03.603Z"
+      },
+      {
+        "id": "mo64s9dj_68u64e3",
+        "phraseIndex": 12,
+        "text": "habitants",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "ainsi, les aires urbaines s\u0019�tendent parce que les habitants s\u0019installent de plus en plus loin du centre, et cela se fait gr�ce aux mobilit�s et � l\u0019urbanisation des espaces p�riph�riques.",
+        "createdAt": "2026-04-19T19:00:20.215Z"
+      },
+      {
+        "id": "mo64sfw4_q1m9cyz",
+        "phraseIndex": 12,
+        "text": "s'installent",
+        "points": 1,
+        "isVerb": true,
+        "phraseSnapshot": "ainsi, les aires urbaines s\u0019�tendent parce que les habitants s\u0019installent de plus en plus loin du centre, et cela se fait gr�ce aux mobilit�s et � l\u0019urbanisation des espaces p�riph�riques.",
+        "createdAt": "2026-04-19T19:00:28.660Z"
+      },
+      {
+        "id": "mo64sz93_nqvng68",
+        "phraseIndex": 2,
+        "text": "s'explique",
+        "points": 1,
+        "isVerb": true,
+        "phraseSnapshot": "il s'explique par plusieurs causes et transforme les espaces autour des villes.",
+        "createdAt": "2026-04-19T19:00:53.751Z"
+      },
+      {
+        "id": "mo64t3qq_k72w48m",
+        "phraseIndex": 3,
+        "text": "aires urbaines",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "d'abord, les aires urbaines s'étendent parce que de plus en plus de personnes vivent en ville ou à proximité des villes.",
+        "createdAt": "2026-04-19T19:00:59.570Z"
+      },
+      {
+        "id": "mo64t7th_s2jlben",
+        "phraseIndex": 3,
+        "text": "s'étendent",
+        "points": 1,
+        "isVerb": true,
+        "phraseSnapshot": "d'abord, les aires urbaines s'étendent parce que de plus en plus de personnes vivent en ville ou à proximité des villes.",
+        "createdAt": "2026-04-19T19:01:04.853Z"
+      },
+      {
+        "id": "mo64tw1b_9av4hlq",
+        "phraseIndex": 7,
+        "text": "habitants",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "Gr�ce � la voiture, aux routes et parfois aux transports en commun, les habitants peuvent vivre plus loin tout en travaillant en ville.",
+        "createdAt": "2026-04-19T19:01:36.239Z"
+      },
+      {
+        "id": "mo64u2qo_nww2tqq",
+        "phraseIndex": 8,
+        "text": "permettent",
+        "points": 1,
+        "isVerb": true,
+        "phraseSnapshot": "les déplacements quotidiens entre domicile et travail permettent donc à l'aire urbaine de s'agrandir.",
+        "createdAt": "2026-04-19T19:01:44.928Z"
+      }
+    ]
+  },
+  {
+    "key": "Géographie - Aires urbaines|||Montrez l'organisation et les dynamiques d'une aire urbaine en France.",
+    "theme": "Géographie - Aires urbaines",
+    "sujet": "Montrez l'organisation et les dynamiques d'une aire urbaine en France.",
+    "keywords": [
+      {
+        "id": "mo64x9xi_wypwgoh",
+        "phraseIndex": 0,
+        "text": "aire urbaine",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "une aire urbaine est un espace organisé autour d'une ville-centre, qui exerce une influence sur les territoires qui l'entourent.",
+        "createdAt": "2026-04-19T19:04:14.214Z"
+      },
+      {
+        "id": "mo64xh62_7tuyp2o",
+        "phraseIndex": 0,
+        "text": "espace",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "une aire urbaine est un espace organisé autour d'une ville-centre, qui exerce une influence sur les territoires qui l'entourent.",
+        "createdAt": "2026-04-19T19:04:23.594Z"
+      },
+      {
+        "id": "mo64xl39_08k530o",
+        "phraseIndex": 0,
+        "text": "organisé",
+        "points": 1,
+        "isVerb": true,
+        "phraseSnapshot": "une aire urbaine est un espace organisé autour d'une ville-centre, qui exerce une influence sur les territoires qui l'entourent.",
+        "createdAt": "2026-04-19T19:04:28.677Z"
+      },
+      {
+        "id": "mo64xttn_zqlu84r",
+        "phraseIndex": 0,
+        "text": "ville-centre",
+        "points": 2,
+        "isVerb": false,
+        "phraseSnapshot": "une aire urbaine est un espace organisé autour d'une ville-centre, qui exerce une influence sur les territoires qui l'entourent.",
+        "createdAt": "2026-04-19T19:04:39.995Z"
+      },
+      {
+        "id": "mo64y6sm_gk71l14",
+        "phraseIndex": 0,
+        "text": "exerce",
+        "points": 1,
+        "isVerb": true,
+        "phraseSnapshot": "une aire urbaine est un espace organisé autour d'une ville-centre, qui exerce une influence sur les territoires qui l'entourent.",
+        "createdAt": "2026-04-19T19:04:56.806Z"
+      },
+      {
+        "id": "mo64ybgf_buxrubq",
+        "phraseIndex": 0,
+        "text": "influence",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "une aire urbaine est un espace organisé autour d'une ville-centre, qui exerce une influence sur les territoires qui l'entourent.",
+        "createdAt": "2026-04-19T19:05:02.847Z"
+      },
+      {
+        "id": "mo64yim9_0ktiv21",
+        "phraseIndex": 1,
+        "text": "aires urbaines",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "en france, les aires urbaines concentrent une grande partie de la population et des activités.",
+        "createdAt": "2026-04-19T19:05:12.129Z"
+      },
+      {
+        "id": "mo64ymrq_qluribc",
+        "phraseIndex": 1,
+        "text": "concentrent",
+        "points": 1,
+        "isVerb": true,
+        "phraseSnapshot": "en france, les aires urbaines concentrent une grande partie de la population et des activités.",
+        "createdAt": "2026-04-19T19:05:17.510Z"
+      },
+      {
+        "id": "mo64zbf0_12eh36m",
+        "phraseIndex": 1,
+        "text": "activités",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "en france, les aires urbaines concentrent une grande partie de la population et des activités.",
+        "createdAt": "2026-04-19T19:05:49.452Z"
+      },
+      {
+        "id": "mo64zhwy_5bbdbq1",
+        "phraseIndex": 2,
+        "text": "connaissent",
+        "points": 1,
+        "isVerb": true,
+        "phraseSnapshot": "elles connaissent aussi des dynamiques importantes, comme l'étalement urbain.",
+        "createdAt": "2026-04-19T19:05:57.874Z"
+      },
+      {
+        "id": "mo64zni8_vfhhx90",
+        "phraseIndex": 2,
+        "text": "dynamiques",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "elles connaissent aussi des dynamiques importantes, comme l'étalement urbain.",
+        "createdAt": "2026-04-19T19:06:05.120Z"
+      },
+      {
+        "id": "mo64zs4q_t915h9u",
+        "phraseIndex": 2,
+        "text": "étalement urbain",
+        "points": 3,
+        "isVerb": false,
+        "phraseSnapshot": "elles connaissent aussi des dynamiques importantes, comme l'étalement urbain.",
+        "createdAt": "2026-04-19T19:06:11.114Z"
+      },
+      {
+        "id": "mo64zy8q_91bbl0j",
+        "phraseIndex": 3,
+        "text": "D'abord",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "d'abord, une aire urbaine s'organise en plusieurs espaces.",
+        "createdAt": "2026-04-19T19:06:19.034Z"
+      },
+      {
+        "id": "mo65026x_czwjphu",
+        "phraseIndex": 3,
+        "text": "aire urbaine",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "d'abord, une aire urbaine s'organise en plusieurs espaces.",
+        "createdAt": "2026-04-19T19:06:24.153Z"
+      },
+      {
+        "id": "mo6506r3_e6t2yfu",
+        "phraseIndex": 3,
+        "text": "s'organise",
+        "points": 1,
+        "isVerb": true,
+        "phraseSnapshot": "d'abord, une aire urbaine s'organise en plusieurs espaces.",
+        "createdAt": "2026-04-19T19:06:30.063Z"
+      },
+      {
+        "id": "mo650wva_gxj1juz",
+        "phraseIndex": 4,
+        "text": "ville-centre",
+        "points": 2,
+        "isVerb": false,
+        "phraseSnapshot": "on trouve d'abord la ville-centre, qui concentre de nombreux emplois, services, commerces et équipements.",
+        "createdAt": "2026-04-19T19:07:03.910Z"
+      },
+      {
+        "id": "mo6512xn_6trmsgc",
+        "phraseIndex": 4,
+        "text": "concentre",
+        "points": 1,
+        "isVerb": true,
+        "phraseSnapshot": "on trouve d'abord la ville-centre, qui concentre de nombreux emplois, services, commerces et équipements.",
+        "createdAt": "2026-04-19T19:07:11.771Z"
+      },
+      {
+        "id": "mo651anv_oe6c187",
+        "phraseIndex": 4,
+        "text": "emplois",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "on trouve d'abord la ville-centre, qui concentre de nombreux emplois, services, commerces et équipements.",
+        "createdAt": "2026-04-19T19:07:21.787Z"
+      },
+      {
+        "id": "mo651cse_ebhdaev",
+        "phraseIndex": 4,
+        "text": "services",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "on trouve d'abord la ville-centre, qui concentre de nombreux emplois, services, commerces et équipements.",
+        "createdAt": "2026-04-19T19:07:24.542Z"
+      },
+      {
+        "id": "mo651fi6_hpuhi0o",
+        "phraseIndex": 4,
+        "text": "commerces",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "on trouve d'abord la ville-centre, qui concentre de nombreux emplois, services, commerces et équipements.",
+        "createdAt": "2026-04-19T19:07:28.062Z"
+      },
+      {
+        "id": "mo651kvg_bkvblx8",
+        "phraseIndex": 5,
+        "text": "banlieue",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "autour, il y a la banlieue, qui est urbanisée et reliée à la ville-centre.",
+        "createdAt": "2026-04-19T19:07:35.020Z"
+      },
+      {
+        "id": "mo651nqw_ecds9os",
+        "phraseIndex": 5,
+        "text": "Autour",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "autour, il y a la banlieue, qui est urbanisée et reliée à la ville-centre.",
+        "createdAt": "2026-04-19T19:07:38.744Z"
+      },
+      {
+        "id": "mo651wo8_bjuej59",
+        "phraseIndex": 5,
+        "text": "reliée",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "autour, il y a la banlieue, qui est urbanisée et reliée à la ville-centre.",
+        "createdAt": "2026-04-19T19:07:50.312Z"
+      },
+      {
+        "id": "mo6525ic_7w04quj",
+        "phraseIndex": 6,
+        "text": "Plus loin",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "plus loin se trouve la couronne périurbaine, où vivent des habitants qui se déplacent souvent chaque jour vers la ville pour travailler.",
+        "createdAt": "2026-04-19T19:08:01.764Z"
+      },
+      {
+        "id": "mo652977_ttk6swk",
+        "phraseIndex": 6,
+        "text": "se trouve",
+        "points": 1,
+        "isVerb": true,
+        "phraseSnapshot": "plus loin se trouve la couronne périurbaine, où vivent des habitants qui se déplacent souvent chaque jour vers la ville pour travailler.",
+        "createdAt": "2026-04-19T19:08:06.547Z"
+      },
+      {
+        "id": "mo652f67_0cie9v2",
+        "phraseIndex": 6,
+        "text": "couronne périurbaine",
+        "points": 2,
+        "isVerb": false,
+        "phraseSnapshot": "plus loin se trouve la couronne périurbaine, où vivent des habitants qui se déplacent souvent chaque jour vers la ville pour travailler.",
+        "createdAt": "2026-04-19T19:08:14.287Z"
+      },
+      {
+        "id": "mo652kml_1gij4u2",
+        "phraseIndex": 6,
+        "text": "vivent",
+        "points": 1,
+        "isVerb": true,
+        "phraseSnapshot": "plus loin se trouve la couronne périurbaine, où vivent des habitants qui se déplacent souvent chaque jour vers la ville pour travailler.",
+        "createdAt": "2026-04-19T19:08:21.357Z"
+      },
+      {
+        "id": "mo652vll_ommtbv5",
+        "phraseIndex": 6,
+        "text": "habitants",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "plus loin se trouve la couronne périurbaine, où vivent des habitants qui se déplacent souvent chaque jour vers la ville pour travailler.",
+        "createdAt": "2026-04-19T19:08:35.577Z"
+      },
+      {
+        "id": "mo6530o8_mqu9cn7",
+        "phraseIndex": 6,
+        "text": "se déplacent",
+        "points": 1,
+        "isVerb": true,
+        "phraseSnapshot": "plus loin se trouve la couronne périurbaine, où vivent des habitants qui se déplacent souvent chaque jour vers la ville pour travailler.",
+        "createdAt": "2026-04-19T19:08:42.152Z"
+      },
+      {
+        "id": "mo6534qq_bra6731",
+        "phraseIndex": 6,
+        "text": "chaque jour",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "plus loin se trouve la couronne périurbaine, où vivent des habitants qui se déplacent souvent chaque jour vers la ville pour travailler.",
+        "createdAt": "2026-04-19T19:08:47.426Z"
+      },
+      {
+        "id": "mo6539wx_gr0wk9p",
+        "phraseIndex": 6,
+        "text": "travailler",
+        "points": 1,
+        "isVerb": true,
+        "phraseSnapshot": "plus loin se trouve la couronne périurbaine, où vivent des habitants qui se déplacent souvent chaque jour vers la ville pour travailler.",
+        "createdAt": "2026-04-19T19:08:54.129Z"
+      },
+      {
+        "id": "mo653eed_8gh1od6",
+        "phraseIndex": 7,
+        "text": "Ensuite",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "ensuite, ces espaces sont reliés par de nombreux déplacements.",
+        "createdAt": "2026-04-19T19:08:59.941Z"
+      },
+      {
+        "id": "mo653i5n_ze7ia91",
+        "phraseIndex": 7,
+        "text": "espaces",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "ensuite, ces espaces sont reliés par de nombreux déplacements.",
+        "createdAt": "2026-04-19T19:09:04.811Z"
+      },
+      {
+        "id": "mo653v31_1xbixjz",
+        "phraseIndex": 7,
+        "text": "reliés",
+        "points": 1,
+        "isVerb": true,
+        "phraseSnapshot": "ensuite, ces espaces sont reliés par de nombreux déplacements.",
+        "createdAt": "2026-04-19T19:09:21.565Z"
+      },
+      {
+        "id": "mo6544ws_qi7wntb",
+        "phraseIndex": 8,
+        "text": "habitants",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "les habitants se rendent dans la ville-centre ou dans d'autres pôles pour le travail, les études ou les loisirs.",
+        "createdAt": "2026-04-19T19:09:34.300Z"
+      },
+      {
+        "id": "mo654aed_6t9yhom",
+        "phraseIndex": 8,
+        "text": "se rendent",
+        "points": 1,
+        "isVerb": true,
+        "phraseSnapshot": "les habitants se rendent dans la ville-centre ou dans d'autres pôles pour le travail, les études ou les loisirs.",
+        "createdAt": "2026-04-19T19:09:41.413Z"
+      },
+      {
+        "id": "mo654fbb_2g7pgl7",
+        "phraseIndex": 8,
+        "text": "ville-centre",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "les habitants se rendent dans la ville-centre ou dans d'autres pôles pour le travail, les études ou les loisirs.",
+        "createdAt": "2026-04-19T19:09:47.783Z"
+      },
+      {
+        "id": "mo654pp1_paqeykg",
+        "phraseIndex": 8,
+        "text": "les études",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "les habitants se rendent dans la ville-centre ou dans d'autres pôles pour le travail, les études ou les loisirs.",
+        "createdAt": "2026-04-19T19:10:01.237Z"
+      },
+      {
+        "id": "mo654sb3_lejzdz0",
+        "phraseIndex": 8,
+        "text": "les loisirs",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "les habitants se rendent dans la ville-centre ou dans d'autres pôles pour le travail, les études ou les loisirs.",
+        "createdAt": "2026-04-19T19:10:04.623Z"
+      },
+      {
+        "id": "mo654uim_0ft9qv7",
+        "phraseIndex": 8,
+        "text": "travail",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "les habitants se rendent dans la ville-centre ou dans d'autres pôles pour le travail, les études ou les loisirs.",
+        "createdAt": "2026-04-19T19:10:07.486Z"
+      },
+      {
+        "id": "mo6550nz_ncr806h",
+        "phraseIndex": 9,
+        "text": "mobilités",
+        "points": 2,
+        "isVerb": false,
+        "phraseSnapshot": "ces mobilités quotidiennes montrent l'influence de la ville sur l'ensemble de l'aire urbaine.",
+        "createdAt": "2026-04-19T19:10:15.455Z"
+      },
+      {
+        "id": "mo6553px_iony2vz",
+        "phraseIndex": 9,
+        "text": "quotidiennes",
+        "points": 2,
+        "isVerb": false,
+        "phraseSnapshot": "ces mobilités quotidiennes montrent l'influence de la ville sur l'ensemble de l'aire urbaine.",
+        "createdAt": "2026-04-19T19:10:19.413Z"
+      },
+      {
+        "id": "mo65587t_icnwmx4",
+        "phraseIndex": 9,
+        "text": "montrent",
+        "points": 1,
+        "isVerb": true,
+        "phraseSnapshot": "ces mobilités quotidiennes montrent l'influence de la ville sur l'ensemble de l'aire urbaine.",
+        "createdAt": "2026-04-19T19:10:25.241Z"
+      },
+      {
+        "id": "mo655gcj_nth8qks",
+        "phraseIndex": 9,
+        "text": "aire urbaine",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "ces mobilités quotidiennes montrent l'influence de la ville sur l'ensemble de l'aire urbaine.",
+        "createdAt": "2026-04-19T19:10:35.779Z"
+      },
+      {
+        "id": "mo655kwm_gbh178n",
+        "phraseIndex": 10,
+        "text": "Enfin",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "enfin, les aires urbaines connaissent une forte dynamique d'extension.",
+        "createdAt": "2026-04-19T19:10:41.686Z"
+      },
+      {
+        "id": "mo655o9m_t4xtvnl",
+        "phraseIndex": 10,
+        "text": "aires urbaines",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "enfin, les aires urbaines connaissent une forte dynamique d'extension.",
+        "createdAt": "2026-04-19T19:10:46.042Z"
+      },
+      {
+        "id": "mo655sk8_9xubgs6",
+        "phraseIndex": 10,
+        "text": "connaissent",
+        "points": 1,
+        "isVerb": true,
+        "phraseSnapshot": "enfin, les aires urbaines connaissent une forte dynamique d'extension.",
+        "createdAt": "2026-04-19T19:10:51.608Z"
+      },
+      {
+        "id": "mo655xyp_z5mxia4",
+        "phraseIndex": 10,
+        "text": "dynamique",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "enfin, les aires urbaines connaissent une forte dynamique d'extension.",
+        "createdAt": "2026-04-19T19:10:58.609Z"
+      },
+      {
+        "id": "mo6564bg_lc1q400",
+        "phraseIndex": 11,
+        "text": "s'étalent",
+        "points": 1,
+        "isVerb": true,
+        "phraseSnapshot": "les villes s'étalent sur les campagnes voisines, car de nombreuses personnes cherchent des logements plus grands ou moins chers en périphérie.",
+        "createdAt": "2026-04-19T19:11:06.844Z"
+      },
+      {
+        "id": "mo656c7m_y22dwf5",
+        "phraseIndex": 11,
+        "text": "logements",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "les villes s'étalent sur les campagnes voisines, car de nombreuses personnes cherchent des logements plus grands ou moins chers en périphérie.",
+        "createdAt": "2026-04-19T19:11:17.074Z"
+      },
+      {
+        "id": "mo656i7c_713tu6x",
+        "phraseIndex": 11,
+        "text": "moins chers",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "les villes s'étalent sur les campagnes voisines, car de nombreuses personnes cherchent des logements plus grands ou moins chers en périphérie.",
+        "createdAt": "2026-04-19T19:11:24.840Z"
+      },
+      {
+        "id": "mo656n07_b5l3bhs",
+        "phraseIndex": 11,
+        "text": "périphérie",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "les villes s'étalent sur les campagnes voisines, car de nombreuses personnes cherchent des logements plus grands ou moins chers en périphérie.",
+        "createdAt": "2026-04-19T19:11:31.063Z"
+      },
+      {
+        "id": "mo656t4z_47f8f0j",
+        "phraseIndex": 12,
+        "text": "étalement urbain",
+        "points": 3,
+        "isVerb": false,
+        "phraseSnapshot": "cela entraîne l'étalement urbain, le développement des zones commerciales et l'augmentation des déplacements.",
+        "createdAt": "2026-04-19T19:11:39.011Z"
+      },
+      {
+        "id": "mo65796i_8aaw3hz",
+        "phraseIndex": 12,
+        "text": "entraîne",
+        "points": 1,
+        "isVerb": true,
+        "phraseSnapshot": "cela entraîne l'étalement urbain, le développement des zones commerciales et l'augmentation des déplacements.",
+        "createdAt": "2026-04-19T19:11:59.802Z"
+      },
+      {
+        "id": "mo657h37_t2np96s",
+        "phraseIndex": 12,
+        "text": "développement",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "cela entraîne l'étalement urbain, le développement des zones commerciales et l'augmentation des déplacements.",
+        "createdAt": "2026-04-19T19:12:10.051Z"
+      },
+      {
+        "id": "mo657oi8_kvav9vq",
+        "phraseIndex": 12,
+        "text": "zones commerciales",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "cela entraîne l'étalement urbain, le développement des zones commerciales et l'augmentation des déplacements.",
+        "createdAt": "2026-04-19T19:12:19.664Z"
+      },
+      {
+        "id": "mo657tx1_yfz6g1z",
+        "phraseIndex": 12,
+        "text": "déplacements",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "cela entraîne l'étalement urbain, le développement des zones commerciales et l'augmentation des déplacements.",
+        "createdAt": "2026-04-19T19:12:26.677Z"
+      },
+      {
+        "id": "mo657za3_rp5vpkr",
+        "phraseIndex": 13,
+        "text": "Ainsi",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "ainsi, une aire urbaine en france est organisée autour d'une ville-centre, de banlieues et d'une couronne périurbaine, et elle est marquée par des dynamiques de mobilités et d'étalement urbain.",
+        "createdAt": "2026-04-19T19:12:33.627Z"
+      },
+      {
+        "id": "mo6585ov_2bihhz6",
+        "phraseIndex": 13,
+        "text": "aire urbaine",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "ainsi, une aire urbaine en france est organisée autour d'une ville-centre, de banlieues et d'une couronne périurbaine, et elle est marquée par des dynamiques de mobilités et d'étalement urbain.",
+        "createdAt": "2026-04-19T19:12:41.935Z"
+      },
+      {
+        "id": "mo658akd_9hi8ib2",
+        "phraseIndex": 13,
+        "text": "organisée",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "ainsi, une aire urbaine en france est organisée autour d'une ville-centre, de banlieues et d'une couronne périurbaine, et elle est marquée par des dynamiques de mobilités et d'étalement urbain.",
+        "createdAt": "2026-04-19T19:12:48.253Z"
+      },
+      {
+        "id": "mo658ht1_4q455ge",
+        "phraseIndex": 13,
+        "text": "une ville-centre",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "ainsi, une aire urbaine en france est organisée autour d'une ville-centre, de banlieues et d'une couronne périurbaine, et elle est marquée par des dynamiques de mobilités et d'étalement urbain.",
+        "createdAt": "2026-04-19T19:12:57.637Z"
+      },
+      {
+        "id": "mo658l5j_fn1pu0e",
+        "phraseIndex": 13,
+        "text": "banlieues",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "ainsi, une aire urbaine en france est organisée autour d'une ville-centre, de banlieues et d'une couronne périurbaine, et elle est marquée par des dynamiques de mobilités et d'étalement urbain.",
+        "createdAt": "2026-04-19T19:13:01.975Z"
+      },
+      {
+        "id": "mo658sud_0235igw",
+        "phraseIndex": 13,
+        "text": "couronne périurbaine",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "ainsi, une aire urbaine en france est organisée autour d'une ville-centre, de banlieues et d'une couronne périurbaine, et elle est marquée par des dynamiques de mobilités et d'étalement urbain.",
+        "createdAt": "2026-04-19T19:13:11.941Z"
+      },
+      {
+        "id": "mo658yhv_xh0tim3",
+        "phraseIndex": 13,
+        "text": "dynamiques",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "ainsi, une aire urbaine en france est organisée autour d'une ville-centre, de banlieues et d'une couronne périurbaine, et elle est marquée par des dynamiques de mobilités et d'étalement urbain.",
+        "createdAt": "2026-04-19T19:13:19.267Z"
+      },
+      {
+        "id": "mo659442_somzv7d",
+        "phraseIndex": 13,
+        "text": "mobilités",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "ainsi, une aire urbaine en france est organisée autour d'une ville-centre, de banlieues et d'une couronne périurbaine, et elle est marquée par des dynamiques de mobilités et d'étalement urbain.",
+        "createdAt": "2026-04-19T19:13:26.546Z"
+      },
+      {
+        "id": "mo6599nh_5cr4ctj",
+        "phraseIndex": 13,
+        "text": "étalement urbain",
+        "points": 3,
+        "isVerb": false,
+        "phraseSnapshot": "ainsi, une aire urbaine en france est organisée autour d'une ville-centre, de banlieues et d'une couronne périurbaine, et elle est marquée par des dynamiques de mobilités et d'étalement urbain.",
+        "createdAt": "2026-04-19T19:13:33.725Z"
+      }
+    ]
+  },
+  {
+    "key": "Géographie - Aires urbaines|||Présentez les dynamiques de l'étalement urbain : formes, causes et conséquences.",
+    "theme": "Géographie - Aires urbaines",
+    "sujet": "Présentez les dynamiques de l'étalement urbain : formes, causes et conséquences.",
+    "keywords": [
+      {
+        "id": "mo65afzc_1szupp7",
+        "phraseIndex": 0,
+        "text": "étalement urbain",
+        "points": 3,
+        "isVerb": false,
+        "phraseSnapshot": "l'étalement urbain correspond à l'extension des villes sur les espaces ruraux qui les entourent.",
+        "createdAt": "2026-04-19T19:14:28.584Z"
+      },
+      {
+        "id": "mo65akr7_vghe2f4",
+        "phraseIndex": 0,
+        "text": "correspond",
+        "points": 1,
+        "isVerb": true,
+        "phraseSnapshot": "l'étalement urbain correspond à l'extension des villes sur les espaces ruraux qui les entourent.",
+        "createdAt": "2026-04-19T19:14:34.771Z"
+      },
+      {
+        "id": "mo65au2g_qs5t86o",
+        "phraseIndex": 0,
+        "text": "extension",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "l'étalement urbain correspond à l'extension des villes sur les espaces ruraux qui les entourent.",
+        "createdAt": "2026-04-19T19:14:46.840Z"
+      },
+      {
+        "id": "mo65azng_vob8xei",
+        "phraseIndex": 0,
+        "text": "villes",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "l'étalement urbain correspond à l'extension des villes sur les espaces ruraux qui les entourent.",
+        "createdAt": "2026-04-19T19:14:54.076Z"
+      },
+      {
+        "id": "mo65b3ka_87whlw5",
+        "phraseIndex": 1,
+        "text": "phénomène",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "ce phénomène concerne de nombreuses aires urbaines en france.",
+        "createdAt": "2026-04-19T19:14:59.146Z"
+      },
+      {
+        "id": "mo65b7n5_ig2150f",
+        "phraseIndex": 1,
+        "text": "concerne",
+        "points": 1,
+        "isVerb": true,
+        "phraseSnapshot": "ce phénomène concerne de nombreuses aires urbaines en france.",
+        "createdAt": "2026-04-19T19:15:04.433Z"
+      },
+      {
+        "id": "mo65bbfn_4jpvfjo",
+        "phraseIndex": 1,
+        "text": "aires urbaines",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "ce phénomène concerne de nombreuses aires urbaines en france.",
+        "createdAt": "2026-04-19T19:15:09.347Z"
+      },
+      {
+        "id": "mo65bj2u_6fptmaj",
+        "phraseIndex": 2,
+        "text": "formes variées",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "il a des formes variées, plusieurs causes et de nombreuses conséquences.",
+        "createdAt": "2026-04-19T19:15:19.254Z"
+      },
+      {
+        "id": "mo65bmjh_wd4zp7q",
+        "phraseIndex": 2,
+        "text": "causes",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "il a des formes variées, plusieurs causes et de nombreuses conséquences.",
+        "createdAt": "2026-04-19T19:15:23.741Z"
+      },
+      {
+        "id": "mo65bo9p_tx2utl0",
+        "phraseIndex": 2,
+        "text": "conséquences",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "il a des formes variées, plusieurs causes et de nombreuses conséquences.",
+        "createdAt": "2026-04-19T19:15:25.981Z"
+      },
+      {
+        "id": "mo65bsp1_tv3shpx",
+        "phraseIndex": 3,
+        "text": "D'abord",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "d'abord, l'étalement urbain prend plusieurs formes.",
+        "createdAt": "2026-04-19T19:15:31.717Z"
+      },
+      {
+        "id": "mo65bxqc_yeqmhp2",
+        "phraseIndex": 3,
+        "text": "étalement urbain",
+        "points": 3,
+        "isVerb": false,
+        "phraseSnapshot": "d'abord, l'étalement urbain prend plusieurs formes.",
+        "createdAt": "2026-04-19T19:15:38.244Z"
+      },
+      {
+        "id": "mo65c2u1_2ovpnjn",
+        "phraseIndex": 3,
+        "text": "prend",
+        "points": 1,
+        "isVerb": true,
+        "phraseSnapshot": "d'abord, l'étalement urbain prend plusieurs formes.",
+        "createdAt": "2026-04-19T19:15:44.857Z"
+      },
+      {
+        "id": "mo65cen6_n79akmx",
+        "phraseIndex": 4,
+        "text": "traduit",
+        "points": 1,
+        "isVerb": true,
+        "phraseSnapshot": "il se traduit par l'extension des quartiers d'habitation, le développement des lotissements, des zones commerciales, des zones industrielles et des routes en périphérie des villes.",
+        "createdAt": "2026-04-19T19:16:00.162Z"
+      },
+      {
+        "id": "mo65d64r_zf184l8",
+        "phraseIndex": 4,
+        "text": "l'extension",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "il se traduit par l'extension des quartiers d'habitation, le développement des lotissements, des zones commerciales, des zones industrielles et des routes en périphérie des villes.",
+        "createdAt": "2026-04-19T19:16:35.787Z"
+      },
+      {
+        "id": "mo65dgki_o8vy3bw",
+        "phraseIndex": 4,
+        "text": "zones commerciales",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "il se traduit par l'extension des quartiers d'habitation, le développement des lotissements, des zones commerciales, des zones industrielles et des routes en périphérie des villes.",
+        "createdAt": "2026-04-19T19:16:49.314Z"
+      },
+      {
+        "id": "mo65dlei_s1vfvga",
+        "phraseIndex": 4,
+        "text": "zones industrielles",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "il se traduit par l'extension des quartiers d'habitation, le développement des lotissements, des zones commerciales, des zones industrielles et des routes en périphérie des villes.",
+        "createdAt": "2026-04-19T19:16:55.578Z"
+      },
+      {
+        "id": "mo65dp7o_pp4u2gg",
+        "phraseIndex": 4,
+        "text": "routes",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "il se traduit par l'extension des quartiers d'habitation, le développement des lotissements, des zones commerciales, des zones industrielles et des routes en périphérie des villes.",
+        "createdAt": "2026-04-19T19:17:00.516Z"
+      },
+      {
+        "id": "mo65dxhq_csdf697",
+        "phraseIndex": 5,
+        "text": "couronne périurbaine",
+        "points": 2,
+        "isVerb": false,
+        "phraseSnapshot": "la couronne périurbaine s'agrandit donc progressivement.",
+        "createdAt": "2026-04-19T19:17:11.246Z"
+      },
+      {
+        "id": "mo65e4cy_poso2lf",
+        "phraseIndex": 5,
+        "text": "s'agrandit",
+        "points": 1,
+        "isVerb": true,
+        "phraseSnapshot": "la couronne périurbaine s'agrandit donc progressivement.",
+        "createdAt": "2026-04-19T19:17:20.146Z"
+      },
+      {
+        "id": "mo65e9us_2yam62d",
+        "phraseIndex": 6,
+        "text": "Ensuite",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "ensuite, cet étalement s'explique par plusieurs causes.",
+        "createdAt": "2026-04-19T19:17:27.268Z"
+      },
+      {
+        "id": "mo65ee45_0wmstut",
+        "phraseIndex": 6,
+        "text": "étalement",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "ensuite, cet étalement s'explique par plusieurs causes.",
+        "createdAt": "2026-04-19T19:17:32.789Z"
+      },
+      {
+        "id": "mo65eo53_3onzcec",
+        "phraseIndex": 6,
+        "text": "s'explique",
+        "points": 1,
+        "isVerb": true,
+        "phraseSnapshot": "ensuite, cet étalement s'explique par plusieurs causes.",
+        "createdAt": "2026-04-19T19:17:45.783Z"
+      },
+      {
+        "id": "mo65etz3_fk7tdj6",
+        "phraseIndex": 6,
+        "text": "causes",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "ensuite, cet étalement s'explique par plusieurs causes.",
+        "createdAt": "2026-04-19T19:17:53.343Z"
+      },
+      {
+        "id": "mo65f4jw_dmi87b5",
+        "phraseIndex": 7,
+        "text": "habitants",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "beaucoup d'habitants cherchent des logements plus grands, souvent moins chers qu'en centre-ville.",
+        "createdAt": "2026-04-19T19:18:07.052Z"
+      },
+      {
+        "id": "mo65fcdy_ocr56pi",
+        "phraseIndex": 7,
+        "text": "logements",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "beaucoup d'habitants cherchent des logements plus grands, souvent moins chers qu'en centre-ville.",
+        "createdAt": "2026-04-19T19:18:17.206Z"
+      },
+      {
+        "id": "mo65ffiy_71v8yjr",
+        "phraseIndex": 7,
+        "text": "plus grands",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "beaucoup d'habitants cherchent des logements plus grands, souvent moins chers qu'en centre-ville.",
+        "createdAt": "2026-04-19T19:18:21.274Z"
+      },
+      {
+        "id": "mo65fje0_kml12eu",
+        "phraseIndex": 7,
+        "text": "moins chers",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "beaucoup d'habitants cherchent des logements plus grands, souvent moins chers qu'en centre-ville.",
+        "createdAt": "2026-04-19T19:18:26.280Z"
+      },
+      {
+        "id": "mo65fpa5_u4qmac9",
+        "phraseIndex": 8,
+        "text": "facilite",
+        "points": 1,
+        "isVerb": true,
+        "phraseSnapshot": "la généralisation de la voiture facilite les déplacements quotidiens.",
+        "createdAt": "2026-04-19T19:18:33.917Z"
+      },
+      {
+        "id": "mo65fvdj_pedhcs4",
+        "phraseIndex": 8,
+        "text": "quotidiens",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "la généralisation de la voiture facilite les déplacements quotidiens.",
+        "createdAt": "2026-04-19T19:18:41.815Z"
+      },
+      {
+        "id": "mo65g10c_m6mhddd",
+        "phraseIndex": 9,
+        "text": "mobilités pendulaires",
+        "points": 3,
+        "isVerb": false,
+        "phraseSnapshot": "les mobilités pendulaires permettent ainsi de vivre loin du centre tout en y travaillant.",
+        "createdAt": "2026-04-19T19:18:49.116Z"
+      },
+      {
+        "id": "mo65g6cb_s4kyp2i",
+        "phraseIndex": 9,
+        "text": "permettent",
+        "points": 1,
+        "isVerb": true,
+        "phraseSnapshot": "les mobilités pendulaires permettent ainsi de vivre loin du centre tout en y travaillant.",
+        "createdAt": "2026-04-19T19:18:56.027Z"
+      },
+      {
+        "id": "mo65gk1i_ba3q0mp",
+        "phraseIndex": 9,
+        "text": "centre",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "les mobilités pendulaires permettent ainsi de vivre loin du centre tout en y travaillant.",
+        "createdAt": "2026-04-19T19:19:13.782Z"
+      },
+      {
+        "id": "mo65grh4_y204kex",
+        "phraseIndex": 10,
+        "text": "entreprises",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "les entreprises et les commerces s'installent aussi en périphérie où l'espace est plus disponible.",
+        "createdAt": "2026-04-19T19:19:23.416Z"
+      },
+      {
+        "id": "mo65gy8y_poea8e1",
+        "phraseIndex": 10,
+        "text": "s'installent",
+        "points": 1,
+        "isVerb": true,
+        "phraseSnapshot": "les entreprises et les commerces s'installent aussi en périphérie où l'espace est plus disponible.",
+        "createdAt": "2026-04-19T19:19:32.194Z"
+      },
+      {
+        "id": "mo65h3s4_tp7rtkt",
+        "phraseIndex": 10,
+        "text": "périphérie",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "les entreprises et les commerces s'installent aussi en périphérie où l'espace est plus disponible.",
+        "createdAt": "2026-04-19T19:19:39.364Z"
+      },
+      {
+        "id": "mo65hgas_4vkjai5",
+        "phraseIndex": 11,
+        "text": "étalement urbain",
+        "points": 3,
+        "isVerb": false,
+        "phraseSnapshot": "enfin, l'étalement urbain a plusieurs conséquences.",
+        "createdAt": "2026-04-19T19:19:55.588Z"
+      },
+      {
+        "id": "mo65ho2y_44n6gmo",
+        "phraseIndex": 11,
+        "text": "conséquences",
+        "points": 2,
+        "isVerb": false,
+        "phraseSnapshot": "enfin, l'étalement urbain a plusieurs conséquences.",
+        "createdAt": "2026-04-19T19:20:05.674Z"
+      },
+      {
+        "id": "mo65htq8_1w8pe22",
+        "phraseIndex": 12,
+        "text": "consomme",
+        "points": 1,
+        "isVerb": true,
+        "phraseSnapshot": "il consomme des terres agricoles et transforme les paysages.",
+        "createdAt": "2026-04-19T19:20:12.992Z"
+      },
+      {
+        "id": "mo65i040_w2ize9c",
+        "phraseIndex": 12,
+        "text": "transforme",
+        "points": 1,
+        "isVerb": true,
+        "phraseSnapshot": "il consomme des terres agricoles et transforme les paysages.",
+        "createdAt": "2026-04-19T19:20:21.264Z"
+      },
+      {
+        "id": "mo65i5k8_plg6dsq",
+        "phraseIndex": 13,
+        "text": "augmente",
+        "points": 1,
+        "isVerb": true,
+        "phraseSnapshot": "il augmente les distances à parcourir et favorise l'usage de la voiture, ce qui provoque des embouteillages et de la pollution.",
+        "createdAt": "2026-04-19T19:20:28.328Z"
+      },
+      {
+        "id": "mo65iaiy_0kl1r8f",
+        "phraseIndex": 13,
+        "text": "favorise",
+        "points": 1,
+        "isVerb": true,
+        "phraseSnapshot": "il augmente les distances à parcourir et favorise l'usage de la voiture, ce qui provoque des embouteillages et de la pollution.",
+        "createdAt": "2026-04-19T19:20:34.762Z"
+      },
+      {
+        "id": "mo65iech_14r3bbp",
+        "phraseIndex": 13,
+        "text": "voiture",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "il augmente les distances à parcourir et favorise l'usage de la voiture, ce qui provoque des embouteillages et de la pollution.",
+        "createdAt": "2026-04-19T19:20:39.713Z"
+      },
+      {
+        "id": "mo65ilx2_faaxgx1",
+        "phraseIndex": 13,
+        "text": "provoque",
+        "points": 1,
+        "isVerb": true,
+        "phraseSnapshot": "il augmente les distances à parcourir et favorise l'usage de la voiture, ce qui provoque des embouteillages et de la pollution.",
+        "createdAt": "2026-04-19T19:20:49.526Z"
+      },
+      {
+        "id": "mo65iqam_6ri8t1s",
+        "phraseIndex": 13,
+        "text": "embouteillages",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "il augmente les distances à parcourir et favorise l'usage de la voiture, ce qui provoque des embouteillages et de la pollution.",
+        "createdAt": "2026-04-19T19:20:55.198Z"
+      },
+      {
+        "id": "mo65it2p_aa529fl",
+        "phraseIndex": 13,
+        "text": "pollution",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "il augmente les distances à parcourir et favorise l'usage de la voiture, ce qui provoque des embouteillages et de la pollution.",
+        "createdAt": "2026-04-19T19:20:58.801Z"
+      },
+      {
+        "id": "mo65j7z9_tn3skv6",
+        "phraseIndex": 14,
+        "text": "renforcer",
+        "points": 1,
+        "isVerb": true,
+        "phraseSnapshot": "il peut aussi renforcer les inégalités entre les centres-villes et certaines périphéries.",
+        "createdAt": "2026-04-19T19:21:18.117Z"
+      },
+      {
+        "id": "mo65jfxl_8b1m2i5",
+        "phraseIndex": 14,
+        "text": "inégalités",
+        "points": 2,
+        "isVerb": false,
+        "phraseSnapshot": "il peut aussi renforcer les inégalités entre les centres-villes et certaines périphéries.",
+        "createdAt": "2026-04-19T19:21:28.425Z"
+      },
+      {
+        "id": "mo65jrmu_cf2lmxg",
+        "phraseIndex": 15,
+        "text": "étalement urbain",
+        "points": 3,
+        "isVerb": false,
+        "phraseSnapshot": "ainsi, l'étalement urbain est une dynamique majeure des aires urbaines françaises.",
+        "createdAt": "2026-04-19T19:21:43.590Z"
+      },
+      {
+        "id": "mo65jzmg_x6a7fao",
+        "phraseIndex": 15,
+        "text": "dynamique",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "ainsi, l'étalement urbain est une dynamique majeure des aires urbaines françaises.",
+        "createdAt": "2026-04-19T19:21:53.944Z"
+      },
+      {
+        "id": "mo65k3qi_era8rji",
+        "phraseIndex": 15,
+        "text": "aires urbaines",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "ainsi, l'étalement urbain est une dynamique majeure des aires urbaines françaises.",
+        "createdAt": "2026-04-19T19:21:59.274Z"
+      },
+      {
+        "id": "mo65ka7g_fchdkd7",
+        "phraseIndex": 16,
+        "text": "modifie",
+        "points": 1,
+        "isVerb": true,
+        "phraseSnapshot": "il modifie l'organisation des territoires et pose des défis importants pour l'environnement et les déplacements.",
+        "createdAt": "2026-04-19T19:22:07.660Z"
+      },
+      {
+        "id": "mo65kgpo_5hunmrm",
+        "phraseIndex": 16,
+        "text": "organisation",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "il modifie l'organisation des territoires et pose des défis importants pour l'environnement et les déplacements.",
+        "createdAt": "2026-04-19T19:22:16.092Z"
+      },
+      {
+        "id": "mo65kqpx_a1xuo2t",
+        "phraseIndex": 16,
+        "text": "des défis importants",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "il modifie l'organisation des territoires et pose des défis importants pour l'environnement et les déplacements.",
+        "createdAt": "2026-04-19T19:22:29.061Z"
+      },
+      {
+        "id": "mo65kve1_0zlcb2z",
+        "phraseIndex": 16,
+        "text": "environnement",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "il modifie l'organisation des territoires et pose des défis importants pour l'environnement et les déplacements.",
+        "createdAt": "2026-04-19T19:22:35.113Z"
+      },
+      {
+        "id": "mo65s8h5_p7cbb2s",
+        "phraseIndex": 7,
+        "text": "cherchent",
+        "points": 1,
+        "isVerb": true,
+        "phraseSnapshot": "beaucoup d'habitants cherchent des logements plus grands, souvent moins chers qu'en centre-ville.",
+        "createdAt": "2026-04-19T19:28:18.665Z"
+      }
+    ]
+  },
+  {
+    "key": "Histoire - Seconde Guerre mondiale|||Décrivez les différentes formes de violence envers les civils et les militaires durant la Seconde Guerre mondiale.",
+    "theme": "Histoire - Seconde Guerre mondiale",
+    "sujet": "Décrivez les différentes formes de violence envers les civils et les militaires durant la Seconde Guerre mondiale.",
+    "keywords": [
+      {
+        "id": "mo90226i_nmbcosg",
+        "phraseIndex": 0,
+        "text": "d'anéantissement",
+        "points": 3,
+        "isVerb": false,
+        "phraseSnapshot": "la seconde guerre mondiale, de 1939 à 1945, est une guerre d'anéantissement.",
+        "createdAt": "2026-04-21T19:11:17.898Z"
+      },
+      {
+        "id": "mo9028x3_viuy1u9",
+        "phraseIndex": 1,
+        "text": "caractérise",
+        "points": 1,
+        "isVerb": true,
+        "phraseSnapshot": "elle se caractérise par des violences extrêmes contre les militaires comme contre les civils.",
+        "createdAt": "2026-04-21T19:11:26.631Z"
+      },
+      {
+        "id": "mo902h6y_el7dqd7",
+        "phraseIndex": 1,
+        "text": "violences extrêmes",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "elle se caractérise par des violences extrêmes contre les militaires comme contre les civils.",
+        "createdAt": "2026-04-21T19:11:37.354Z"
+      },
+      {
+        "id": "mo902nvv_bb7jec6",
+        "phraseIndex": 1,
+        "text": "les militaires",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "elle se caractérise par des violences extrêmes contre les militaires comme contre les civils.",
+        "createdAt": "2026-04-21T19:11:46.027Z"
+      },
+      {
+        "id": "mo902qne_sqhxjv3",
+        "phraseIndex": 1,
+        "text": "les civils",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "elle se caractérise par des violences extrêmes contre les militaires comme contre les civils.",
+        "createdAt": "2026-04-21T19:11:49.610Z"
+      },
+      {
+        "id": "mo9032l8_wsaskhp",
+        "phraseIndex": 2,
+        "text": "Les combats",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "les combats, les massacres et les génocides montrent la brutalité exceptionnelle de ce conflit.",
+        "createdAt": "2026-04-21T19:12:05.084Z"
+      },
+      {
+        "id": "mo9035h0_w3iut9h",
+        "phraseIndex": 2,
+        "text": "les massacres",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "les combats, les massacres et les génocides montrent la brutalité exceptionnelle de ce conflit.",
+        "createdAt": "2026-04-21T19:12:08.820Z"
+      },
+      {
+        "id": "mo9039o8_dhpemu5",
+        "phraseIndex": 2,
+        "text": "les génocides",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "les combats, les massacres et les génocides montrent la brutalité exceptionnelle de ce conflit.",
+        "createdAt": "2026-04-21T19:12:14.264Z"
+      },
+      {
+        "id": "mo903dkb_jps3jsf",
+        "phraseIndex": 2,
+        "text": "montrent",
+        "points": 1,
+        "isVerb": true,
+        "phraseSnapshot": "les combats, les massacres et les génocides montrent la brutalité exceptionnelle de ce conflit.",
+        "createdAt": "2026-04-21T19:12:19.307Z"
+      },
+      {
+        "id": "mo903stn_0gn6hpc",
+        "phraseIndex": 2,
+        "text": "brutalité exceptionnelle",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "les combats, les massacres et les génocides montrent la brutalité exceptionnelle de ce conflit.",
+        "createdAt": "2026-04-21T19:12:39.083Z"
+      },
+      {
+        "id": "mo903xlo_zi90cej",
+        "phraseIndex": 3,
+        "text": "D'abord",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "d'abord, les militaires subissent une violence très forte sur les champs de bataille.",
+        "createdAt": "2026-04-21T19:12:45.276Z"
+      },
+      {
+        "id": "mo90432y_0s493hn",
+        "phraseIndex": 3,
+        "text": "les militaires",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "d'abord, les militaires subissent une violence très forte sur les champs de bataille.",
+        "createdAt": "2026-04-21T19:12:52.378Z"
+      },
+      {
+        "id": "mo90476f_ay4lncj",
+        "phraseIndex": 3,
+        "text": "subissent",
+        "points": 1,
+        "isVerb": true,
+        "phraseSnapshot": "d'abord, les militaires subissent une violence très forte sur les champs de bataille.",
+        "createdAt": "2026-04-21T19:12:57.687Z"
+      },
+      {
+        "id": "mo904nah_2bad7od",
+        "phraseIndex": 3,
+        "text": "les champs de bataille",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "d'abord, les militaires subissent une violence très forte sur les champs de bataille.",
+        "createdAt": "2026-04-21T19:13:18.569Z"
+      },
+      {
+        "id": "mo904stw_n0ggz7z",
+        "phraseIndex": 4,
+        "text": "combats",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "les combats sont meurtriers à cause des armes modernes, des bombardements massifs, des chars et de l'aviation.",
+        "createdAt": "2026-04-21T19:13:25.748Z"
+      },
+      {
+        "id": "mo904yrv_s1wppbl",
+        "phraseIndex": 4,
+        "text": "des armes modernes",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "les combats sont meurtriers à cause des armes modernes, des bombardements massifs, des chars et de l'aviation.",
+        "createdAt": "2026-04-21T19:13:33.451Z"
+      },
+      {
+        "id": "mo9052uy_xb8ph05",
+        "phraseIndex": 4,
+        "text": "des bombardements massifs",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "les combats sont meurtriers à cause des armes modernes, des bombardements massifs, des chars et de l'aviation.",
+        "createdAt": "2026-04-21T19:13:38.746Z"
+      },
+      {
+        "id": "mo90560e_uzwuydt",
+        "phraseIndex": 4,
+        "text": "des chars",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "les combats sont meurtriers à cause des armes modernes, des bombardements massifs, des chars et de l'aviation.",
+        "createdAt": "2026-04-21T19:13:42.830Z"
+      },
+      {
+        "id": "mo9058ki_ijjeath",
+        "phraseIndex": 4,
+        "text": "l'aviation",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "les combats sont meurtriers à cause des armes modernes, des bombardements massifs, des chars et de l'aviation.",
+        "createdAt": "2026-04-21T19:13:46.146Z"
+      },
+      {
+        "id": "mo905hn2_c1w5ube",
+        "phraseIndex": 5,
+        "text": "le front de l'Est",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "sur le front de l'est, par exemple, les affrontements sont particulièrement violents entre l'allemagne nazie et l'urss.",
+        "createdAt": "2026-04-21T19:13:57.902Z"
+      },
+      {
+        "id": "mo905pin_lcongjs",
+        "phraseIndex": 5,
+        "text": "l'Allemagne nazie",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "sur le front de l'est, par exemple, les affrontements sont particulièrement violents entre l'allemagne nazie et l'urss.",
+        "createdAt": "2026-04-21T19:14:08.111Z"
+      },
+      {
+        "id": "mo905slv_unoowot",
+        "phraseIndex": 5,
+        "text": "l'URSS",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "sur le front de l'est, par exemple, les affrontements sont particulièrement violents entre l'allemagne nazie et l'urss.",
+        "createdAt": "2026-04-21T19:14:12.115Z"
+      },
+      {
+        "id": "mo905zif_ft7moj7",
+        "phraseIndex": 6,
+        "text": "Les soldats",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "les soldats connaissent la peur, la fatigue, les blessures et la mort à très grande échelle.",
+        "createdAt": "2026-04-21T19:14:21.063Z"
+      },
+      {
+        "id": "mo90645y_bnct6fj",
+        "phraseIndex": 6,
+        "text": "connaissent",
+        "points": 1,
+        "isVerb": true,
+        "phraseSnapshot": "les soldats connaissent la peur, la fatigue, les blessures et la mort à très grande échelle.",
+        "createdAt": "2026-04-21T19:14:27.094Z"
+      },
+      {
+        "id": "mo9068yb_f5c1zl3",
+        "phraseIndex": 6,
+        "text": "la peur",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "les soldats connaissent la peur, la fatigue, les blessures et la mort à très grande échelle.",
+        "createdAt": "2026-04-21T19:14:33.299Z"
+      },
+      {
+        "id": "mo906bwz_d67p90v",
+        "phraseIndex": 6,
+        "text": "la fatigue",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "les soldats connaissent la peur, la fatigue, les blessures et la mort à très grande échelle.",
+        "createdAt": "2026-04-21T19:14:37.139Z"
+      },
+      {
+        "id": "mo906fhd_wu2fmwp",
+        "phraseIndex": 6,
+        "text": "les blessures",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "les soldats connaissent la peur, la fatigue, les blessures et la mort à très grande échelle.",
+        "createdAt": "2026-04-21T19:14:41.761Z"
+      },
+      {
+        "id": "mo906jkq_jpxhrpq",
+        "phraseIndex": 6,
+        "text": "la mort",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "les soldats connaissent la peur, la fatigue, les blessures et la mort à très grande échelle.",
+        "createdAt": "2026-04-21T19:14:47.066Z"
+      },
+      {
+        "id": "mo9074gu_r05wkha",
+        "phraseIndex": 7,
+        "text": "Ensuite",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "ensuite, les civils sont eux aussi directement visés.",
+        "createdAt": "2026-04-21T19:15:14.142Z"
+      },
+      {
+        "id": "mo90780c_jwdria0",
+        "phraseIndex": 7,
+        "text": "les civils",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "ensuite, les civils sont eux aussi directement visés.",
+        "createdAt": "2026-04-21T19:15:18.732Z"
+      },
+      {
+        "id": "mo907lsb_7oflqnj",
+        "phraseIndex": 7,
+        "text": "directement visés",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "ensuite, les civils sont eux aussi directement visés.",
+        "createdAt": "2026-04-21T19:15:36.587Z"
+      },
+      {
+        "id": "mo907qsw_wpuljkz",
+        "phraseIndex": 8,
+        "text": "Les villes",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "les villes sont bombardées, comme londres, dresde ou hiroshima.",
+        "createdAt": "2026-04-21T19:15:43.088Z"
+      },
+      {
+        "id": "mo907tuv_clp335f",
+        "phraseIndex": 8,
+        "text": "bombardées",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "les villes sont bombardées, comme londres, dresde ou hiroshima.",
+        "createdAt": "2026-04-21T19:15:47.047Z"
+      },
+      {
+        "id": "mo907xfp_h7zc7bt",
+        "phraseIndex": 8,
+        "text": "Londres",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "les villes sont bombardées, comme londres, dresde ou hiroshima.",
+        "createdAt": "2026-04-21T19:15:51.685Z"
+      },
+      {
+        "id": "mo90816d_3so27sr",
+        "phraseIndex": 8,
+        "text": "Hiroshima",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "les villes sont bombardées, comme londres, dresde ou hiroshima.",
+        "createdAt": "2026-04-21T19:15:56.533Z"
+      },
+      {
+        "id": "mo9086sz_97ktwk5",
+        "phraseIndex": 9,
+        "text": "Les populations",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "les populations souffrent des destructions, des pénuries, de la faim et des déplacements forcés.",
+        "createdAt": "2026-04-21T19:16:03.827Z"
+      },
+      {
+        "id": "mo908bkq_6nnserq",
+        "phraseIndex": 9,
+        "text": "souffrent",
+        "points": 1,
+        "isVerb": true,
+        "phraseSnapshot": "les populations souffrent des destructions, des pénuries, de la faim et des déplacements forcés.",
+        "createdAt": "2026-04-21T19:16:10.010Z"
+      },
+      {
+        "id": "mo908i2i_8jvraz7",
+        "phraseIndex": 9,
+        "text": "des destructions",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "les populations souffrent des destructions, des pénuries, de la faim et des déplacements forcés.",
+        "createdAt": "2026-04-21T19:16:18.426Z"
+      },
+      {
+        "id": "mo908klq_ir47r7d",
+        "phraseIndex": 9,
+        "text": "des pénuries",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "les populations souffrent des destructions, des pénuries, de la faim et des déplacements forcés.",
+        "createdAt": "2026-04-21T19:16:21.710Z"
+      },
+      {
+        "id": "mo908nhx_dcav1um",
+        "phraseIndex": 9,
+        "text": "de la faim",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "les populations souffrent des destructions, des pénuries, de la faim et des déplacements forcés.",
+        "createdAt": "2026-04-21T19:16:25.461Z"
+      },
+      {
+        "id": "mo908qh9_01521e6",
+        "phraseIndex": 9,
+        "text": "des déplacements forcés",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "les populations souffrent des destructions, des pénuries, de la faim et des déplacements forcés.",
+        "createdAt": "2026-04-21T19:16:29.325Z"
+      },
+      {
+        "id": "mo908wkb_6nrm5vj",
+        "phraseIndex": 10,
+        "text": "occupés",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "dans certains territoires occupés, les civils subissent aussi des représailles, des exécutions et des massacres.",
+        "createdAt": "2026-04-21T19:16:37.211Z"
+      },
+      {
+        "id": "mo909246_1ltijmg",
+        "phraseIndex": 10,
+        "text": "les civils",
+        "points": 2,
+        "isVerb": false,
+        "phraseSnapshot": "dans certains territoires occupés, les civils subissent aussi des représailles, des exécutions et des massacres.",
+        "createdAt": "2026-04-21T19:16:44.406Z"
+      },
+      {
+        "id": "mo9097zv_v65avax",
+        "phraseIndex": 10,
+        "text": "subissent",
+        "points": 1,
+        "isVerb": true,
+        "phraseSnapshot": "dans certains territoires occupés, les civils subissent aussi des représailles, des exécutions et des massacres.",
+        "createdAt": "2026-04-21T19:16:52.027Z"
+      },
+      {
+        "id": "mo909dgv_yk56fec",
+        "phraseIndex": 10,
+        "text": "des représailles",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "dans certains territoires occupés, les civils subissent aussi des représailles, des exécutions et des massacres.",
+        "createdAt": "2026-04-21T19:16:59.119Z"
+      },
+      {
+        "id": "mo909g0b_hux31gn",
+        "phraseIndex": 10,
+        "text": "des exécutions",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "dans certains territoires occupés, les civils subissent aussi des représailles, des exécutions et des massacres.",
+        "createdAt": "2026-04-21T19:17:02.411Z"
+      },
+      {
+        "id": "mo909i2v_l0hhstp",
+        "phraseIndex": 10,
+        "text": "des massacres",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "dans certains territoires occupés, les civils subissent aussi des représailles, des exécutions et des massacres.",
+        "createdAt": "2026-04-21T19:17:05.095Z"
+      },
+      {
+        "id": "mo909opm_a0oeciq",
+        "phraseIndex": 11,
+        "text": "Enfin",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "enfin, la violence atteint un niveau extrême avec les génocides.",
+        "createdAt": "2026-04-21T19:17:13.690Z"
+      },
+      {
+        "id": "mo909zxl_is0gtdj",
+        "phraseIndex": 11,
+        "text": "atteint",
+        "points": 1,
+        "isVerb": true,
+        "phraseSnapshot": "enfin, la violence atteint un niveau extrême avec les génocides.",
+        "createdAt": "2026-04-21T19:17:28.233Z"
+      },
+      {
+        "id": "mo90a530_kftd87y",
+        "phraseIndex": 11,
+        "text": "les génocides",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "enfin, la violence atteint un niveau extrême avec les génocides.",
+        "createdAt": "2026-04-21T19:17:34.908Z"
+      },
+      {
+        "id": "mo90a9dq_c044hh0",
+        "phraseIndex": 12,
+        "text": "Les Juifs",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "les juifs et les tziganes sont persécutés puis exterminés par les nazis.",
+        "createdAt": "2026-04-21T19:17:40.478Z"
+      },
+      {
+        "id": "mo90acf2_omn747k",
+        "phraseIndex": 12,
+        "text": "les Tziganes",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "les juifs et les tziganes sont persécutés puis exterminés par les nazis.",
+        "createdAt": "2026-04-21T19:17:44.414Z"
+      },
+      {
+        "id": "mo90ag5g_zbapw5h",
+        "phraseIndex": 12,
+        "text": "persécutés",
+        "points": 1,
+        "isVerb": true,
+        "phraseSnapshot": "les juifs et les tziganes sont persécutés puis exterminés par les nazis.",
+        "createdAt": "2026-04-21T19:17:49.252Z"
+      },
+      {
+        "id": "mo90aktw_mkjobad",
+        "phraseIndex": 12,
+        "text": "exterminés",
+        "points": 1,
+        "isVerb": true,
+        "phraseSnapshot": "les juifs et les tziganes sont persécutés puis exterminés par les nazis.",
+        "createdAt": "2026-04-21T19:17:55.316Z"
+      },
+      {
+        "id": "mo90ao61_qgzksh3",
+        "phraseIndex": 12,
+        "text": "les nazis",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "les juifs et les tziganes sont persécutés puis exterminés par les nazis.",
+        "createdAt": "2026-04-21T19:17:59.641Z"
+      },
+      {
+        "id": "mo90atcq_a2y9eop",
+        "phraseIndex": 13,
+        "text": "millions",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "des millions de personnes sont déportées dans des camps de concentration et des camps d'extermination comme auschwitz-birkenau.",
+        "createdAt": "2026-04-21T19:18:06.362Z"
+      },
+      {
+        "id": "mo90ay6d_l170p6h",
+        "phraseIndex": 13,
+        "text": "déportées",
+        "points": 1,
+        "isVerb": true,
+        "phraseSnapshot": "des millions de personnes sont déportées dans des camps de concentration et des camps d'extermination comme auschwitz-birkenau.",
+        "createdAt": "2026-04-21T19:18:12.613Z"
+      },
+      {
+        "id": "mo90b2yj_xvtjh1r",
+        "phraseIndex": 13,
+        "text": "des camps de concentration",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "des millions de personnes sont déportées dans des camps de concentration et des camps d'extermination comme auschwitz-birkenau.",
+        "createdAt": "2026-04-21T19:18:18.811Z"
+      },
+      {
+        "id": "mo90b66x_14t8535",
+        "phraseIndex": 13,
+        "text": "des camps d'extermination",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "des millions de personnes sont déportées dans des camps de concentration et des camps d'extermination comme auschwitz-birkenau.",
+        "createdAt": "2026-04-21T19:18:23.001Z"
+      },
+      {
+        "id": "mo90baxn_9x7jox6",
+        "phraseIndex": 13,
+        "text": "Auschwitz",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "des millions de personnes sont déportées dans des camps de concentration et des camps d'extermination comme auschwitz-birkenau.",
+        "createdAt": "2026-04-21T19:18:29.147Z"
+      },
+      {
+        "id": "mo90bkho_2n8k30l",
+        "phraseIndex": 14,
+        "text": "Les fusillades de masse",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "les fusillades de masse et les chambres à gaz montrent que cette guerre vise aussi à détruire des populations entières.",
+        "createdAt": "2026-04-21T19:18:41.532Z"
+      },
+      {
+        "id": "mo90bnjf_u7e4dgv",
+        "phraseIndex": 14,
+        "text": "les chambres à gaz",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "les fusillades de masse et les chambres à gaz montrent que cette guerre vise aussi à détruire des populations entières.",
+        "createdAt": "2026-04-21T19:18:45.483Z"
+      },
+      {
+        "id": "mo90brev_a7n93we",
+        "phraseIndex": 14,
+        "text": "montrent",
+        "points": 1,
+        "isVerb": true,
+        "phraseSnapshot": "les fusillades de masse et les chambres à gaz montrent que cette guerre vise aussi à détruire des populations entières.",
+        "createdAt": "2026-04-21T19:18:50.503Z"
+      },
+      {
+        "id": "mo90bze0_zni3trl",
+        "phraseIndex": 14,
+        "text": "des populations",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "les fusillades de masse et les chambres à gaz montrent que cette guerre vise aussi à détruire des populations entières.",
+        "createdAt": "2026-04-21T19:19:00.840Z"
+      },
+      {
+        "id": "mo90c4sw_dtkc2og",
+        "phraseIndex": 15,
+        "text": "Ainsi",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "ainsi, pendant la seconde guerre mondiale, les militaires sont frappés par la violence des combats et les civils par les bombardements, les massacres et les génocides.",
+        "createdAt": "2026-04-21T19:19:07.856Z"
+      },
+      {
+        "id": "mo90c9k7_6wunoud",
+        "phraseIndex": 15,
+        "text": "les militaires",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "ainsi, pendant la seconde guerre mondiale, les militaires sont frappés par la violence des combats et les civils par les bombardements, les massacres et les génocides.",
+        "createdAt": "2026-04-21T19:19:14.023Z"
+      },
+      {
+        "id": "mo90cg3p_saf3ru8",
+        "phraseIndex": 15,
+        "text": "frappés",
+        "points": 1,
+        "isVerb": true,
+        "phraseSnapshot": "ainsi, pendant la seconde guerre mondiale, les militaires sont frappés par la violence des combats et les civils par les bombardements, les massacres et les génocides.",
+        "createdAt": "2026-04-21T19:19:22.501Z"
+      },
+      {
+        "id": "mo90cl1r_sobjt9y",
+        "phraseIndex": 15,
+        "text": "violence des combats",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "ainsi, pendant la seconde guerre mondiale, les militaires sont frappés par la violence des combats et les civils par les bombardements, les massacres et les génocides.",
+        "createdAt": "2026-04-21T19:19:28.911Z"
+      },
+      {
+        "id": "mo90cogp_t5dqgyv",
+        "phraseIndex": 15,
+        "text": "les civils",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "ainsi, pendant la seconde guerre mondiale, les militaires sont frappés par la violence des combats et les civils par les bombardements, les massacres et les génocides.",
+        "createdAt": "2026-04-21T19:19:33.337Z"
+      },
+      {
+        "id": "mo90cv68_la3fc6v",
+        "phraseIndex": 15,
+        "text": "les bombardements",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "ainsi, pendant la seconde guerre mondiale, les militaires sont frappés par la violence des combats et les civils par les bombardements, les massacres et les génocides.",
+        "createdAt": "2026-04-21T19:19:42.032Z"
+      },
+      {
+        "id": "mo90cywk_8a9d1w2",
+        "phraseIndex": 15,
+        "text": "les massacres",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "ainsi, pendant la seconde guerre mondiale, les militaires sont frappés par la violence des combats et les civils par les bombardements, les massacres et les génocides.",
+        "createdAt": "2026-04-21T19:19:46.868Z"
+      },
+      {
+        "id": "mo90d27a_e5ax7xm",
+        "phraseIndex": 15,
+        "text": "les génocides",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "ainsi, pendant la seconde guerre mondiale, les militaires sont frappés par la violence des combats et les civils par les bombardements, les massacres et les génocides.",
+        "createdAt": "2026-04-21T19:19:51.142Z"
+      },
+      {
+        "id": "mo90dbgb_psskfc0",
+        "phraseIndex": 16,
+        "text": "violences extrêmes",
+        "points": 1,
+        "isVerb": false,
+        "phraseSnapshot": "cette guerre est donc marquée par des violences extrêmes contre tous.",
+        "createdAt": "2026-04-21T19:20:03.131Z"
+      },
+      {
+        "id": "mo90dfg6_r1d1t1u",
+        "phraseIndex": 16,
+        "text": "marquée",
+        "points": 1,
+        "isVerb": true,
+        "phraseSnapshot": "cette guerre est donc marquée par des violences extrêmes contre tous.",
+        "createdAt": "2026-04-21T19:20:08.310Z"
+      }
+    ]
+  }
+]
+
