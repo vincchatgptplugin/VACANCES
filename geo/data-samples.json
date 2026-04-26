@@ -1,0 +1,1974 @@
+[
+  {
+    "title": "regions",
+    "file": "regions.png",
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "zones": [
+      {
+        "word": "Hauts-de-France",
+        "coordinates": {
+          "left": "353px",
+          "top": "49px",
+          "width": "128px",
+          "height": "71px"
+        }
+      },
+      {
+        "word": "Normandie",
+        "coordinates": {
+          "left": "211px",
+          "top": "139px",
+          "width": "130px",
+          "height": "34px"
+        }
+      },
+      {
+        "word": "Bretagne",
+        "coordinates": {
+          "left": "64px",
+          "top": "217px",
+          "width": "104px",
+          "height": "29px"
+        }
+      },
+      {
+        "word": "Pays de la Loire",
+        "coordinates": {
+          "left": "146px",
+          "top": "263px",
+          "width": "119px",
+          "height": "63px"
+        }
+      },
+      {
+        "word": "Île-de-France",
+        "coordinates": {
+          "left": "354px",
+          "top": "157px",
+          "width": "88px",
+          "height": "65px"
+        }
+      },
+      {
+        "word": "Centre-Val de Loire",
+        "coordinates": {
+          "left": "287px",
+          "top": "268px",
+          "width": "137px",
+          "height": "65px"
+        }
+      },
+      {
+        "word": "Grand Est",
+        "coordinates": {
+          "left": "473px",
+          "top": "160px",
+          "width": "135px",
+          "height": "54px"
+        }
+      },
+      {
+        "word": "Bourgogne-Franche-Comté",
+        "coordinates": {
+          "left": "430px",
+          "top": "277px",
+          "width": "179px",
+          "height": "71px"
+        }
+      },
+      {
+        "word": "Nouvelle-Aquitaine",
+        "coordinates": {
+          "left": "225px",
+          "top": "438px",
+          "width": "104px",
+          "height": "70px"
+        }
+      },
+      {
+        "word": "Auvergne-Rhône-Alpes",
+        "coordinates": {
+          "left": "413px",
+          "top": "404px",
+          "width": "157px",
+          "height": "77px"
+        }
+      },
+      {
+        "word": "Occitanie",
+        "coordinates": {
+          "left": "340px",
+          "top": "557px",
+          "width": "117px",
+          "height": "36px"
+        }
+      },
+      {
+        "word": "Provence-Alpes-Côte d’Azur",
+        "coordinates": {
+          "left": "495px",
+          "top": "531px",
+          "width": "191px",
+          "height": "81px"
+        }
+      },
+      {
+        "word": "Corse",
+        "coordinates": {
+          "left": "612px",
+          "top": "680px",
+          "width": "79px",
+          "height": "35px"
+        }
+      }
+    ]
+  },
+  {
+    "title": "territoires",
+    "file": "territoire.png",
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "zones": [
+      {
+        "word": "Massif armoricain",
+        "coordinates": {
+          "left": "256px",
+          "top": "225px",
+          "width": "94px",
+          "height": "40px"
+        }
+      },
+      {
+        "word": "Bassin parisien",
+        "coordinates": {
+          "left": "520px",
+          "top": "176px",
+          "width": "117px",
+          "height": "83px"
+        }
+      },
+      {
+        "word": "Massif ardennais",
+        "coordinates": {
+          "left": "621px",
+          "top": "136px",
+          "width": "83px",
+          "height": "46px"
+        }
+      },
+      {
+        "word": "Vosges",
+        "coordinates": {
+          "left": "769px",
+          "top": "228px",
+          "width": "36px",
+          "height": "58px"
+        }
+      },
+      {
+        "word": "Jura",
+        "coordinates": {
+          "left": "718px",
+          "top": "329px",
+          "width": "55px",
+          "height": "68px"
+        }
+      },
+      {
+        "word": "Morvan",
+        "coordinates": {
+          "left": "630px",
+          "top": "327px",
+          "width": "66px",
+          "height": "35px"
+        }
+      },
+      {
+        "word": "Massif central",
+        "coordinates": {
+          "left": "542px",
+          "top": "479px",
+          "width": "138px",
+          "height": "55px"
+        }
+      },
+      {
+        "word": "Bassin aquitain",
+        "coordinates": {
+          "left": "402px",
+          "top": "463px",
+          "width": "121px",
+          "height": "82px"
+        }
+      },
+      {
+        "word": "Pyrénées",
+        "coordinates": {
+          "left": "407px",
+          "top": "618px",
+          "width": "139px",
+          "height": "53px"
+        }
+      },
+      {
+        "word": "Alpes",
+        "coordinates": {
+          "left": "763px",
+          "top": "462px",
+          "width": "37px",
+          "height": "95px"
+        }
+      },
+      {
+        "word": "Corse",
+        "coordinates": {
+          "left": "855px",
+          "top": "580px",
+          "width": "69px",
+          "height": "106px"
+        }
+      },
+      {
+        "word": "Guadeloupe",
+        "coordinates": {
+          "left": "10px",
+          "top": "324px",
+          "width": "108px",
+          "height": "22px"
+        }
+      },
+      {
+        "word": "Martinique",
+        "coordinates": {
+          "left": "131px",
+          "top": "322px",
+          "width": "102px",
+          "height": "26px"
+        }
+      },
+      {
+        "word": "La Réunion",
+        "coordinates": {
+          "left": "4px",
+          "top": "441px",
+          "width": "111px",
+          "height": "26px"
+        }
+      },
+      {
+        "word": "Mayotte",
+        "coordinates": {
+          "left": "128px",
+          "top": "442px",
+          "width": "88px",
+          "height": "30px"
+        }
+      },
+      {
+        "word": "Guyane",
+        "coordinates": {
+          "left": "93px",
+          "top": "565px",
+          "width": "84px",
+          "height": "27px"
+        }
+      }
+    ]
+  },
+  {
+    "title": "montagnes",
+    "file": "territoire.png",
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "zones": [
+      {
+        "word": "Mont Blanc",
+        "coordinates": {
+          "left": "792px",
+          "top": "434px",
+          "width": "71px",
+          "height": "26px"
+        }
+      },
+      {
+        "word": "Barre des Écrins",
+        "coordinates": {
+          "left": "690px",
+          "top": "497px",
+          "width": "64px",
+          "height": "26px"
+        }
+      },
+      {
+        "word": "Puy de Sancy",
+        "coordinates": {
+          "left": "493px",
+          "top": "454px",
+          "width": "83px",
+          "height": "13px"
+        }
+      },
+      {
+        "word": "Grand Ballon",
+        "coordinates": {
+          "left": "692px",
+          "top": "281px",
+          "width": "85px",
+          "height": "19px"
+        }
+      },
+      {
+        "word": "Crêt de la Neige",
+        "coordinates": {
+          "left": "679px",
+          "top": "392px",
+          "width": "58px",
+          "height": "29px"
+        }
+      },
+      {
+        "word": "Pic d’Aneto",
+        "coordinates": {
+          "left": "433px",
+          "top": "663px",
+          "width": "76px",
+          "height": "16px"
+        }
+      },
+      {
+        "word": "Pic du Vignemale",
+        "coordinates": {
+          "left": "353px",
+          "top": "649px",
+          "width": "71px",
+          "height": "24px"
+        }
+      },
+      {
+        "word": "Monte Cinto",
+        "coordinates": {
+          "left": "846px",
+          "top": "616px",
+          "width": "85px",
+          "height": "31px"
+        }
+      },
+      {
+        "word": "Soufrière",
+        "coordinates": {
+          "left": "44px",
+          "top": "378px",
+          "width": "58px",
+          "height": "28px"
+        }
+      },
+      {
+        "word": "Montagne Pelée",
+        "coordinates": {
+          "left": "130px",
+          "top": "364px",
+          "width": "109px",
+          "height": "28px"
+        }
+      },
+      {
+        "word": "Piton des Neiges",
+        "coordinates": {
+          "left": "8px",
+          "top": "465px",
+          "width": "107px",
+          "height": "23px"
+        }
+      },
+      {
+        "word": "Piton de la Fournaise",
+        "coordinates": {
+          "left": "45px",
+          "top": "517px",
+          "width": "72px",
+          "height": "42px"
+        }
+      }
+    ]
+  },
+  {
+    "title": "fleuves",
+    "file": "territoire.png",
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "zones": [
+      {
+        "word": "Seine",
+        "coordinates": {
+          "left": "512px",
+          "top": "177px",
+          "width": "33px",
+          "height": "39px"
+        }
+      },
+      {
+        "word": "Loire",
+        "coordinates": {
+          "left": "495px",
+          "top": "288px",
+          "width": "39px",
+          "height": "34px"
+        }
+      },
+      {
+        "word": "Rhône",
+        "coordinates": {
+          "left": "677px",
+          "top": "519px",
+          "width": "20px",
+          "height": "51px"
+        }
+      },
+      {
+        "word": "Garonne",
+        "coordinates": {
+          "left": "451px",
+          "top": "587px",
+          "width": "61px",
+          "height": "50px"
+        }
+      },
+      {
+        "word": "Rhin",
+        "coordinates": {
+          "left": "802px",
+          "top": "248px",
+          "width": "21px",
+          "height": "33px"
+        }
+      }
+    ]
+  },
+  {
+    "title": "facades maritime",
+    "file": "territoire.png",
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "zones": [
+      {
+        "word": "Manche",
+        "coordinates": {
+          "left": "364px",
+          "top": "98px",
+          "width": "140px",
+          "height": "37px"
+        }
+      },
+      {
+        "word": "Océan Atlantique",
+        "coordinates": {
+          "left": "128px",
+          "top": "259px",
+          "width": "145px",
+          "height": "62px"
+        }
+      },
+      {
+        "word": "Golfe de Gascogne",
+        "coordinates": {
+          "left": "274px",
+          "top": "430px",
+          "width": "101px",
+          "height": "49px"
+        }
+      },
+      {
+        "word": "Mer Méditerranée",
+        "coordinates": {
+          "left": "665px",
+          "top": "667px",
+          "width": "174px",
+          "height": "31px"
+        }
+      },
+      {
+        "word": "Golfe du Lion",
+        "coordinates": {
+          "left": "601px",
+          "top": "629px",
+          "width": "87px",
+          "height": "41px"
+        }
+      }
+    ]
+  },
+  {
+    "title": "aires urbaines",
+    "file": "aires urbaines.png",
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "zones": [
+      {
+        "word": "Paris",
+        "coordinates": {
+          "left": "560px",
+          "top": "200px",
+          "width": "57px",
+          "height": "34px"
+        }
+      },
+      {
+        "word": "Lyon",
+        "coordinates": {
+          "left": "688px",
+          "top": "459px",
+          "width": "55px",
+          "height": "33px"
+        }
+      },
+      {
+        "word": "Marseille-Aix-en-Provence",
+        "coordinates": {
+          "left": "587px",
+          "top": "670px",
+          "width": "151px",
+          "height": "37px"
+        }
+      },
+      {
+        "word": "Lille",
+        "coordinates": {
+          "left": "561px",
+          "top": "82px",
+          "width": "57px",
+          "height": "33px"
+        }
+      },
+      {
+        "word": "Toulouse",
+        "coordinates": {
+          "left": "456px",
+          "top": "620px",
+          "width": "89px",
+          "height": "24px"
+        }
+      },
+      {
+        "word": "Bordeaux",
+        "coordinates": {
+          "left": "401px",
+          "top": "522px",
+          "width": "95px",
+          "height": "32px"
+        }
+      },
+      {
+        "word": "Nice",
+        "coordinates": {
+          "left": "795px",
+          "top": "613px",
+          "width": "45px",
+          "height": "28px"
+        }
+      },
+      {
+        "word": "Nantes",
+        "coordinates": {
+          "left": "300px",
+          "top": "316px",
+          "width": "80px",
+          "height": "33px"
+        }
+      },
+      {
+        "word": "Strasbourg",
+        "coordinates": {
+          "left": "744px",
+          "top": "229px",
+          "width": "115px",
+          "height": "37px"
+        }
+      },
+      {
+        "word": "Rennes",
+        "coordinates": {
+          "left": "260px",
+          "top": "275px",
+          "width": "66px",
+          "height": "32px"
+        }
+      }
+    ]
+  },
+  {
+    "title": "monde fleuves",
+    "file": "monde fleuves.png",
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "zones": [
+      {
+        "word": "Mississippi",
+        "coordinates": {
+          "left": "177px",
+          "top": "137px",
+          "width": "30px",
+          "height": "101px"
+        }
+      },
+      {
+        "word": "Missouri",
+        "coordinates": {
+          "left": "111px",
+          "top": "152px",
+          "width": "54px",
+          "height": "61px"
+        }
+      },
+      {
+        "word": "Amazone",
+        "coordinates": {
+          "left": "185px",
+          "top": "389px",
+          "width": "98px",
+          "height": "21px"
+        }
+      },
+      {
+        "word": "Niger",
+        "coordinates": {
+          "left": "517px",
+          "top": "294px",
+          "width": "44px",
+          "height": "66px"
+        }
+      },
+      {
+        "word": "Zaïre",
+        "coordinates": {
+          "left": "565px",
+          "top": "352px",
+          "width": "68px",
+          "height": "39px"
+        }
+      },
+      {
+        "word": "Nil",
+        "coordinates": {
+          "left": "628px",
+          "top": "313px",
+          "width": "42px",
+          "height": "41px"
+        }
+      },
+      {
+        "word": "Danube",
+        "coordinates": {
+          "left": "554px",
+          "top": "140px",
+          "width": "60px",
+          "height": "34px"
+        }
+      },
+      {
+        "word": "Euphrate",
+        "coordinates": {
+          "left": "643px",
+          "top": "234px",
+          "width": "66px",
+          "height": "41px"
+        }
+      },
+      {
+        "word": "Tigre",
+        "coordinates": {
+          "left": "674px",
+          "top": "191px",
+          "width": "36px",
+          "height": "48px"
+        }
+      },
+      {
+        "word": "Volga",
+        "coordinates": {
+          "left": "656px",
+          "top": "88px",
+          "width": "58px",
+          "height": "62px"
+        }
+      },
+      {
+        "word": "Indus",
+        "coordinates": {
+          "left": "746px",
+          "top": "197px",
+          "width": "46px",
+          "height": "71px"
+        }
+      },
+      {
+        "word": "Gange",
+        "coordinates": {
+          "left": "824px",
+          "top": "229px",
+          "width": "57px",
+          "height": "44px"
+        }
+      },
+      {
+        "word": "Huang He",
+        "coordinates": {
+          "left": "869px",
+          "top": "162px",
+          "width": "95px",
+          "height": "37px"
+        }
+      },
+      {
+        "word": "Yang Jiang",
+        "coordinates": {
+          "left": "906px",
+          "top": "226px",
+          "width": "103px",
+          "height": "38px"
+        }
+      },
+      {
+        "word": "Mékong",
+        "coordinates": {
+          "left": "886px",
+          "top": "275px",
+          "width": "67px",
+          "height": "69px"
+        }
+      }
+    ]
+  },
+  {
+    "title": "plaines et relief monde",
+    "file": "relief monde.png",
+    "offset": {
+      "x": -252,
+      "y": -332
+    },
+    "zones": [
+      {
+        "word": "Plaine de Sibérie occidentale",
+        "coordinates": {
+          "left": "763px",
+          "top": "148px",
+          "width": "79px",
+          "height": "56px"
+        }
+      },
+      {
+        "word": "Plaine de Sibérie orientale",
+        "coordinates": {
+          "left": "993px",
+          "top": "125px",
+          "width": "77px",
+          "height": "56px"
+        }
+      },
+      {
+        "word": "Montagnes Rocheuses",
+        "coordinates": {
+          "left": "167px",
+          "top": "187px",
+          "width": "76px",
+          "height": "146px"
+        }
+      },
+      {
+        "word": "Appalaches",
+        "coordinates": {
+          "left": "292px",
+          "top": "224px",
+          "width": "77px",
+          "height": "67px"
+        }
+      },
+      {
+        "word": "Cordillère des Andes",
+        "coordinates": {
+          "left": "305px",
+          "top": "389px",
+          "width": "61px",
+          "height": "143px"
+        }
+      },
+      {
+        "word": "Plateau des Guyanes",
+        "coordinates": {
+          "left": "369px",
+          "top": "387px",
+          "width": "42px",
+          "height": "39px"
+        }
+      },
+      {
+        "word": "Plateau brésilien",
+        "coordinates": {
+          "left": "385px",
+          "top": "458px",
+          "width": "66px",
+          "height": "48px"
+        }
+      },
+      {
+        "word": "Atlas",
+        "coordinates": {
+          "left": "540px",
+          "top": "284px",
+          "width": "48px",
+          "height": "23px"
+        }
+      },
+      {
+        "word": "Massif éthiopien",
+        "coordinates": {
+          "left": "634px",
+          "top": "371px",
+          "width": "67px",
+          "height": "98px"
+        }
+      },
+      {
+        "word": "Plateau du Deccan",
+        "coordinates": {
+          "left": "767px",
+          "top": "330px",
+          "width": "68px",
+          "height": "67px"
+        }
+      },
+      {
+        "word": "Himalaya",
+        "coordinates": {
+          "left": "780px",
+          "top": "272px",
+          "width": "78px",
+          "height": "41px"
+        }
+      },
+      {
+        "word": "Carpates",
+        "coordinates": {
+          "left": "659px",
+          "top": "250px",
+          "width": "85px",
+          "height": "71px"
+        }
+      }
+    ]
+  },
+  {
+    "title": "continent ocean",
+    "file": "relief monde.png",
+    "offset": {
+      "x": -252,
+      "y": -272
+    },
+    "zones": [
+      {
+        "word": "Amérique du Nord",
+        "coordinates": {
+          "left": "219px",
+          "top": "208px",
+          "width": "94px",
+          "height": "68px"
+        }
+      },
+      {
+        "word": "Amérique du Sud",
+        "coordinates": {
+          "left": "361px",
+          "top": "497px",
+          "width": "90px",
+          "height": "123px"
+        }
+      },
+      {
+        "word": "Europe",
+        "coordinates": {
+          "left": "634px",
+          "top": "262px",
+          "width": "68px",
+          "height": "33px"
+        }
+      },
+      {
+        "word": "Afrique",
+        "coordinates": {
+          "left": "559px",
+          "top": "398px",
+          "width": "89px",
+          "height": "38px"
+        }
+      },
+      {
+        "word": "Asie",
+        "coordinates": {
+          "left": "817px",
+          "top": "307px",
+          "width": "55px",
+          "height": "34px"
+        }
+      },
+      {
+        "word": "Océanie",
+        "coordinates": {
+          "left": "936px",
+          "top": "562px",
+          "width": "80px",
+          "height": "41px"
+        }
+      },
+      {
+        "word": "Antarctique.",
+        "coordinates": {
+          "left": "965px",
+          "top": "785px",
+          "width": "0px",
+          "height": "0px"
+        }
+      },
+      {
+        "word": "Océan Glacial Arctique",
+        "coordinates": {
+          "left": "529px",
+          "top": "69px",
+          "width": "247px",
+          "height": "48px"
+        }
+      },
+      {
+        "word": "Océan Atlantique",
+        "coordinates": {
+          "left": "470px",
+          "top": "499px",
+          "width": "113px",
+          "height": "47px"
+        }
+      },
+      {
+        "word": "Océan Pacifique",
+        "coordinates": {
+          "left": "158px",
+          "top": "501px",
+          "width": "129px",
+          "height": "43px"
+        }
+      },
+      {
+        "word": "Océan Indien",
+        "coordinates": {
+          "left": "793px",
+          "top": "540px",
+          "width": "89px",
+          "height": "32px"
+        }
+      },
+      {
+        "word": "Océan Glacial Antarctique.",
+        "coordinates": {
+          "left": "431px",
+          "top": "725px",
+          "width": "384px",
+          "height": "40px"
+        }
+      }
+    ]
+  },
+  {
+    "title": "10 villes les plus peuplés",
+    "file": "peuplement.png",
+    "offset": {
+      "x": -100,
+      "y": -118
+    },
+    "zones": [
+      {
+        "word": "New York (États-Unis)",
+        "coordinates": {
+          "left": "256px",
+          "top": "279px",
+          "width": "95px",
+          "height": "42px"
+        }
+      },
+      {
+        "word": "Mexico (Mexique)",
+        "coordinates": {
+          "left": "36px",
+          "top": "383px",
+          "width": "99px",
+          "height": "37px"
+        }
+      },
+      {
+        "word": "São Paulo (Brésil)",
+        "coordinates": {
+          "left": "334px",
+          "top": "637px",
+          "width": "130px",
+          "height": "50px"
+        }
+      },
+      {
+        "word": "Manille (Philippines)",
+        "coordinates": {
+          "left": "1141px",
+          "top": "419px",
+          "width": "72px",
+          "height": "79px"
+        }
+      },
+      {
+        "word": "Mumbai / Bombay (Inde)",
+        "coordinates": {
+          "left": "846px",
+          "top": "407px",
+          "width": "100px",
+          "height": "61px"
+        }
+      },
+      {
+        "word": "Delhi (Inde)",
+        "coordinates": {
+          "left": "916px",
+          "top": "357px",
+          "width": "59px",
+          "height": "45px"
+        }
+      },
+      {
+        "word": "Séoul (Corée du Sud)",
+        "coordinates": {
+          "left": "1124px",
+          "top": "292px",
+          "width": "41px",
+          "height": "57px"
+        }
+      },
+      {
+        "word": "Tokyo (Japon)",
+        "coordinates": {
+          "left": "1192px",
+          "top": "301px",
+          "width": "56px",
+          "height": "49px"
+        }
+      },
+      {
+        "word": "Bangkok (Thaïlande)",
+        "coordinates": {
+          "left": "1029px",
+          "top": "443px",
+          "width": "93px",
+          "height": "50px"
+        }
+      },
+      {
+        "word": "Jakarta (Indonésie)",
+        "coordinates": {
+          "left": "997px",
+          "top": "544px",
+          "width": "119px",
+          "height": "58px"
+        }
+      }
+    ]
+  },
+  {
+    "title": "5 États les plus peuplés",
+    "file": "peuplement.png",
+    "offset": {
+      "x": -90,
+      "y": -130
+    },
+    "zones": [
+      {
+        "word": "Chine",
+        "coordinates": {
+          "left": "1075px",
+          "top": "351px",
+          "width": "58px",
+          "height": "26px"
+        }
+      },
+      {
+        "word": "Inde",
+        "coordinates": {
+          "left": "952px",
+          "top": "386px",
+          "width": "49px",
+          "height": "23px"
+        }
+      },
+      {
+        "word": "États-Unis",
+        "coordinates": {
+          "left": "104px",
+          "top": "272px",
+          "width": "96px",
+          "height": "25px"
+        }
+      },
+      {
+        "word": "Indonésie",
+        "coordinates": {
+          "left": "1126px",
+          "top": "539px",
+          "width": "92px",
+          "height": "33px"
+        }
+      },
+      {
+        "word": "Brésil",
+        "coordinates": {
+          "left": "306px",
+          "top": "561px",
+          "width": "64px",
+          "height": "27px"
+        }
+      }
+    ]
+  },
+  {
+    "title": "H3 1",
+    "file": "Gemini_Generated_Image_r93xb6r93xb6r93x.png",
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "zones": [
+      {
+        "word": "Allemagne",
+        "coordinates": {
+          "left": "466px",
+          "top": "377px",
+          "width": "178px",
+          "height": "41px"
+        }
+      },
+      {
+        "word": "Royaume-Uni",
+        "coordinates": {
+          "left": "224px",
+          "top": "236px",
+          "width": "158px",
+          "height": "56px"
+        }
+      },
+      {
+        "word": "URSS",
+        "coordinates": {
+          "left": "989px",
+          "top": "249px",
+          "width": "100px",
+          "height": "71px"
+        }
+      },
+      {
+        "word": "France (divisée)",
+        "coordinates": {
+          "left": "261px",
+          "top": "444px",
+          "width": "132px",
+          "height": "45px"
+        }
+      }
+    ]
+  },
+  {
+    "title": "H3 2",
+    "file": "Gemini_Generated_Image_r93xb6r93xb6r93x.png",
+    "offset": {
+      "x": -344,
+      "y": -1092
+    },
+    "zones": [
+      {
+        "word": "Japon",
+        "coordinates": {
+          "left": "675px",
+          "top": "207px",
+          "width": "82px",
+          "height": "41px"
+        }
+      },
+      {
+        "word": "États-Unis (Hawaï)",
+        "coordinates": {
+          "left": "1197px",
+          "top": "484px",
+          "width": "88px",
+          "height": "34px"
+        }
+      }
+    ]
+  },
+  {
+    "title": "H3 3",
+    "file": "Gemini_Generated_Image_r93xb6r93xb6r93x.png",
+    "offset": {
+      "x": -370,
+      "y": -69
+    },
+    "zones": [
+      {
+        "word": "Maghreb",
+        "coordinates": {
+          "left": "1016px",
+          "top": "513px",
+          "width": "23px",
+          "height": "14px"
+        }
+      },
+      {
+        "word": "Sicile",
+        "coordinates": {
+          "left": "1265px",
+          "top": "539px",
+          "width": "23px",
+          "height": "12px"
+        }
+      },
+      {
+        "word": "Provence",
+        "coordinates": {
+          "left": "1126px",
+          "top": "340px",
+          "width": "23px",
+          "height": "13px"
+        }
+      },
+      {
+        "word": "Normandie",
+        "coordinates": {
+          "left": "1040px",
+          "top": "118px",
+          "width": "14px",
+          "height": "12px"
+        }
+      },
+      {
+        "word": "Auschwitz",
+        "coordinates": {
+          "left": "387px",
+          "top": "342px",
+          "width": "262px",
+          "height": "44px"
+        }
+      }
+    ]
+  },
+  {
+    "title": "outre mer",
+    "file": "aires urbaines.png",
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "zones": [
+      {
+        "word": "Guadeloupe",
+        "coordinates": {
+          "left": "3px",
+          "top": "41px",
+          "width": "107px",
+          "height": "28px"
+        }
+      },
+      {
+        "word": "Martinique",
+        "coordinates": {
+          "left": "2px",
+          "top": "159px",
+          "width": "98px",
+          "height": "29px"
+        }
+      },
+      {
+        "word": "La Réunion",
+        "coordinates": {
+          "left": "1px",
+          "top": "278px",
+          "width": "98px",
+          "height": "29px"
+        }
+      },
+      {
+        "word": "Mayotte",
+        "coordinates": {
+          "left": "1px",
+          "top": "394px",
+          "width": "74px",
+          "height": "27px"
+        }
+      },
+      {
+        "word": "Guyane",
+        "coordinates": {
+          "left": "193px",
+          "top": "45px",
+          "width": "70px",
+          "height": "27px"
+        }
+      },
+      {
+        "word": "Toulon",
+        "coordinates": {
+          "left": "755px",
+          "top": "697px",
+          "width": "69px",
+          "height": "31px"
+        }
+      }
+    ]
+  },
+  {
+    "title": "pays membres",
+    "file": "europe.png",
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "zones": [
+      {
+        "word": "France",
+        "coordinates": {
+          "left": "153px",
+          "top": "245px",
+          "width": "68px",
+          "height": "26px"
+        }
+      },
+      {
+        "word": "Allemagne",
+        "coordinates": {
+          "left": "243px",
+          "top": "171px",
+          "width": "87px",
+          "height": "19px"
+        }
+      },
+      {
+        "word": "Italie",
+        "coordinates": {
+          "left": "279px",
+          "top": "318px",
+          "width": "42px",
+          "height": "22px"
+        }
+      },
+      {
+        "word": "Belgique",
+        "coordinates": {
+          "left": "162px",
+          "top": "176px",
+          "width": "73px",
+          "height": "15px"
+        }
+      },
+      {
+        "word": "Pays-Bas",
+        "coordinates": {
+          "left": "194px",
+          "top": "139px",
+          "width": "71px",
+          "height": "23px"
+        }
+      },
+      {
+        "word": "Luxembourg",
+        "coordinates": {
+          "left": "230px",
+          "top": "218px",
+          "width": "30px",
+          "height": "18px"
+        }
+      },
+      {
+        "word": "Danemark",
+        "coordinates": {
+          "left": "235px",
+          "top": "93px",
+          "width": "78px",
+          "height": "24px"
+        }
+      },
+      {
+        "word": "Irlande",
+        "coordinates": {
+          "left": "62px",
+          "top": "125px",
+          "width": "65px",
+          "height": "17px"
+        }
+      },
+      {
+        "word": "Royaume-Uni",
+        "coordinates": {
+          "left": "117px",
+          "top": "142px",
+          "width": "72px",
+          "height": "28px"
+        }
+      },
+      {
+        "word": "Espagne",
+        "coordinates": {
+          "left": "61px",
+          "top": "355px",
+          "width": "75px",
+          "height": "23px"
+        }
+      },
+      {
+        "word": "Portugal",
+        "coordinates": {
+          "left": "6px",
+          "top": "333px",
+          "width": "74px",
+          "height": "22px"
+        }
+      },
+      {
+        "word": "Grèce",
+        "coordinates": {
+          "left": "410px",
+          "top": "379px",
+          "width": "48px",
+          "height": "18px"
+        }
+      },
+      {
+        "word": "Autriche",
+        "coordinates": {
+          "left": "280px",
+          "top": "248px",
+          "width": "69px",
+          "height": "19px"
+        }
+      },
+      {
+        "word": "Suède",
+        "coordinates": {
+          "left": "301px",
+          "top": "37px",
+          "width": "54px",
+          "height": "18px"
+        }
+      },
+      {
+        "word": "Finlande",
+        "coordinates": {
+          "left": "370px",
+          "top": "1px",
+          "width": "67px",
+          "height": "20px"
+        }
+      },
+      {
+        "word": "Pologne",
+        "coordinates": {
+          "left": "338px",
+          "top": "163px",
+          "width": "72px",
+          "height": "18px"
+        }
+      },
+      {
+        "word": "République tchèque",
+        "coordinates": {
+          "left": "308px",
+          "top": "199px",
+          "width": "65px",
+          "height": "27px"
+        }
+      },
+      {
+        "word": "Slovaquie",
+        "coordinates": {
+          "left": "350px",
+          "top": "223px",
+          "width": "80px",
+          "height": "18px"
+        }
+      },
+      {
+        "word": "Hongrie",
+        "coordinates": {
+          "left": "350px",
+          "top": "249px",
+          "width": "62px",
+          "height": "18px"
+        }
+      },
+      {
+        "word": "Slovénie",
+        "coordinates": {
+          "left": "300px",
+          "top": "270px",
+          "width": "70px",
+          "height": "18px"
+        }
+      },
+      {
+        "word": "Croatie",
+        "coordinates": {
+          "left": "315px",
+          "top": "289px",
+          "width": "63px",
+          "height": "15px"
+        }
+      },
+      {
+        "word": "Roumanie",
+        "coordinates": {
+          "left": "415px",
+          "top": "262px",
+          "width": "78px",
+          "height": "22px"
+        }
+      },
+      {
+        "word": "Bulgarie",
+        "coordinates": {
+          "left": "432px",
+          "top": "310px",
+          "width": "70px",
+          "height": "19px"
+        }
+      },
+      {
+        "word": "Estonie",
+        "coordinates": {
+          "left": "386px",
+          "top": "38px",
+          "width": "62px",
+          "height": "20px"
+        }
+      },
+      {
+        "word": "Lettonie",
+        "coordinates": {
+          "left": "382px",
+          "top": "69px",
+          "width": "68px",
+          "height": "19px"
+        }
+      },
+      {
+        "word": "Lituanie",
+        "coordinates": {
+          "left": "379px",
+          "top": "96px",
+          "width": "66px",
+          "height": "19px"
+        }
+      },
+      {
+        "word": "Malte",
+        "coordinates": {
+          "left": "312px",
+          "top": "441px",
+          "width": "52px",
+          "height": "17px"
+        }
+      },
+      {
+        "word": "Chypre",
+        "coordinates": {
+          "left": "520px",
+          "top": "423px",
+          "width": "63px",
+          "height": "23px"
+        }
+      }
+    ]
+  },
+  {
+    "title": "les villes où siègent des institutions",
+    "file": "europe.png",
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "zones": [
+      {
+        "word": "Bruxelles",
+        "coordinates": {
+          "left": "154px",
+          "top": "189px",
+          "width": "60px",
+          "height": "14px"
+        }
+      },
+      {
+        "word": "Luxembourg",
+        "coordinates": {
+          "left": "230px",
+          "top": "221px",
+          "width": "29px",
+          "height": "14px"
+        }
+      },
+      {
+        "word": "Strasbourg",
+        "coordinates": {
+          "left": "257px",
+          "top": "229px",
+          "width": "66px",
+          "height": "16px"
+        }
+      },
+      {
+        "word": "Francfort",
+        "coordinates": {
+          "left": "257px",
+          "top": "196px",
+          "width": "58px",
+          "height": "16px"
+        }
+      },
+      {
+        "word": "La Haye",
+        "coordinates": {
+          "left": "225px",
+          "top": "159px",
+          "width": "50px",
+          "height": "15px"
+        }
+      }
+    ]
+  },
+  {
+    "title": "10 plus grandes metropoles europeennes",
+    "file": "dixplusgrandesvilleseurope.png",
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "zones": [
+      {
+        "word": "Hambourg",
+        "coordinates": {
+          "left": "511px",
+          "top": "206px",
+          "width": "131px",
+          "height": "24px"
+        }
+      },
+      {
+        "word": "Berlin",
+        "coordinates": {
+          "left": "651px",
+          "top": "277px",
+          "width": "81px",
+          "height": "21px"
+        }
+      },
+      {
+        "word": "Varsovie",
+        "coordinates": {
+          "left": "789px",
+          "top": "279px",
+          "width": "112px",
+          "height": "19px"
+        }
+      },
+      {
+        "word": "Paris",
+        "coordinates": {
+          "left": "451px",
+          "top": "382px",
+          "width": "70px",
+          "height": "21px"
+        }
+      },
+      {
+        "word": "Milan",
+        "coordinates": {
+          "left": "601px",
+          "top": "486px",
+          "width": "79px",
+          "height": "20px"
+        }
+      },
+      {
+        "word": "Rome",
+        "coordinates": {
+          "left": "708px",
+          "top": "568px",
+          "width": "66px",
+          "height": "29px"
+        }
+      },
+      {
+        "word": "Barcelone",
+        "coordinates": {
+          "left": "459px",
+          "top": "596px",
+          "width": "132px",
+          "height": "22px"
+        }
+      },
+      {
+        "word": "Madrid",
+        "coordinates": {
+          "left": "275px",
+          "top": "616px",
+          "width": "95px",
+          "height": "26px"
+        }
+      },
+      {
+        "word": "Bucarest",
+        "coordinates": {
+          "left": "916px",
+          "top": "442px",
+          "width": "114px",
+          "height": "28px"
+        }
+      },
+      {
+        "word": "Athènes",
+        "coordinates": {
+          "left": "961px",
+          "top": "686px",
+          "width": "102px",
+          "height": "18px"
+        }
+      }
+    ]
+  },
+  {
+    "title": "francophonie",
+    "file": "FRANCOPHONIE.png",
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "zones": [
+      {
+        "word": "Québec",
+        "coordinates": {
+          "left": "216px",
+          "top": "154px",
+          "width": "48px",
+          "height": "18px"
+        }
+      },
+      {
+        "word": "La Nouvelle-Orléans",
+        "coordinates": {
+          "left": "103px",
+          "top": "204px",
+          "width": "125px",
+          "height": "25px"
+        }
+      },
+      {
+        "word": "New York",
+        "coordinates": {
+          "left": "236px",
+          "top": "196px",
+          "width": "63px",
+          "height": "21px"
+        }
+      },
+      {
+        "word": "France",
+        "coordinates": {
+          "left": "316px",
+          "top": "175px",
+          "width": "57px",
+          "height": "21px"
+        }
+      },
+      {
+        "word": "Maroc",
+        "coordinates": {
+          "left": "309px",
+          "top": "215px",
+          "width": "51px",
+          "height": "18px"
+        }
+      },
+      {
+        "word": "Algérie",
+        "coordinates": {
+          "left": "375px",
+          "top": "232px",
+          "width": "58px",
+          "height": "20px"
+        }
+      },
+      {
+        "word": "Mali",
+        "coordinates": {
+          "left": "356px",
+          "top": "263px",
+          "width": "36px",
+          "height": "19px"
+        }
+      },
+      {
+        "word": "Niger",
+        "coordinates": {
+          "left": "390px",
+          "top": "258px",
+          "width": "43px",
+          "height": "20px"
+        }
+      },
+      {
+        "word": "Côte d’Ivoire",
+        "coordinates": {
+          "left": "330px",
+          "top": "301px",
+          "width": "59px",
+          "height": "33px"
+        }
+      },
+      {
+        "word": "Haïti",
+        "coordinates": {
+          "left": "225px",
+          "top": "238px",
+          "width": "38px",
+          "height": "19px"
+        }
+      },
+      {
+        "word": "Guadeloupe",
+        "coordinates": {
+          "left": "258px",
+          "top": "245px",
+          "width": "79px",
+          "height": "22px"
+        }
+      },
+      {
+        "word": "Martinique",
+        "coordinates": {
+          "left": "264px",
+          "top": "273px",
+          "width": "66px",
+          "height": "15px"
+        }
+      },
+      {
+        "word": "Guyane",
+        "coordinates": {
+          "left": "283px",
+          "top": "286px",
+          "width": "47px",
+          "height": "22px"
+        }
+      },
+      {
+        "word": "Seychelles",
+        "coordinates": {
+          "left": "509px",
+          "top": "311px",
+          "width": "84px",
+          "height": "25px"
+        }
+      },
+      {
+        "word": "Comores",
+        "coordinates": {
+          "left": "398px",
+          "top": "340px",
+          "width": "72px",
+          "height": "25px"
+        }
+      },
+      {
+        "word": "Mayotte",
+        "coordinates": {
+          "left": "484px",
+          "top": "331px",
+          "width": "51px",
+          "height": "20px"
+        }
+      },
+      {
+        "word": "Maurice",
+        "coordinates": {
+          "left": "515px",
+          "top": "350px",
+          "width": "61px",
+          "height": "26px"
+        }
+      },
+      {
+        "word": "Réunion",
+        "coordinates": {
+          "left": "493px",
+          "top": "378px",
+          "width": "52px",
+          "height": "18px"
+        }
+      },
+      {
+        "word": "Vietnam",
+        "coordinates": {
+          "left": "616px",
+          "top": "267px",
+          "width": "59px",
+          "height": "24px"
+        }
+      },
+      {
+        "word": "Polynésie française",
+        "coordinates": {
+          "left": "58px",
+          "top": "338px",
+          "width": "60px",
+          "height": "30px"
+        }
+      },
+      {
+        "word": "Wallis-et-Futuna",
+        "coordinates": {
+          "left": "717px",
+          "top": "318px",
+          "width": "63px",
+          "height": "30px"
+        }
+      },
+      {
+        "word": "Vanuatu",
+        "coordinates": {
+          "left": "661px",
+          "top": "347px",
+          "width": "68px",
+          "height": "18px"
+        }
+      },
+      {
+        "word": "Nouvelle-Calédonie",
+        "coordinates": {
+          "left": "708px",
+          "top": "383px",
+          "width": "69px",
+          "height": "31px"
+        }
+      }
+    ]
+  }
+]

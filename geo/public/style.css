@@ -1,0 +1,122 @@
+/* ==========================
+   RESET & BASE
+   ========================== */
+   * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: Arial, sans-serif;
+    background: #f5f5f5;
+    color: #333;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  h1 {
+    margin-bottom: 20px;
+  }
+  
+  section {
+    background: #fff;
+    margin: 20px auto;
+    border-radius: 6px;
+    padding: 20px;
+    box-shadow: 0 0 6px rgba(0,0,0,0.1);
+    max-width: 1800px;
+    text-align: left; /* Le contenu est aligné à gauche */
+  }
+  
+  h2 {
+    margin-bottom: 10px;
+    color: #333;
+  }
+  
+  /* Form / labels */
+  label {
+    display: block;
+    margin: 10px 0 5px;
+    font-weight: 600;
+  }
+  
+  input[type="text"],
+  textarea,
+  select {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  /* Boutons */
+  button {
+    display: inline-block;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    padding: 10px 16px;
+    font-size: 14px;
+    cursor: pointer;
+    margin: 10px 5px 0 0;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  /* ==========================
+     IMAGE WRAPPERS
+     ========================== */
+  .image-wrapper {
+    width: 1600px;
+    height: 800px;
+    margin: 20px auto; /* centre horizontalement */
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    position: relative;
+    overflow: hidden;
+    background: #eee;
+  }
+  
+  #pannableImage,
+  #selectableImage {
+    position: absolute;
+    top: 0;
+    left: 0;
+    cursor: grab;
+    /* désactiver le drag natif */
+    -webkit-user-drag: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+  }
+  
+  #pannableImage:active,
+  #selectableImage:active {
+    cursor: grabbing;
+  }
+  
+  /* ==========================
+     MASK (rectangle de sélection)
+     ========================== */
+  .mask {
+    display: none;
+    position: absolute;
+    border: 2px dashed red;
+    pointer-events: none; /* pas d'interactions */
+  }
+  
+  /* ==========================
+     DIVERS
+     ========================== */
+  .word-display {
+    font-weight: bold;
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  

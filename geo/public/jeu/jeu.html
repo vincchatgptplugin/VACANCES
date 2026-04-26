@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Jeu de devinette de mots</title>
+  <!-- Lien vers le CSS -->
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- Sélection du temps -->
+  <div id="time-selection" class="time-choice">
+    <button class="button" data-time="2">2 minutes</button>
+    <button class="button" data-time="5">5 minutes</button>
+    <button class="button" data-time="10">10 minutes</button>
+  </div>
+
+  <!-- Sélection de l'image -->
+  <div id="image-selection" class="image-choice" style="display: none;"></div>
+
+  <!-- Conteneur du jeu -->
+  <div class="container" id="game-container" style="display: none;">
+    <img src="" alt="Image" class="image" id="image">
+    <div id="mask" class="mask"></div>
+  </div>
+
+  <!-- Conteneur des boutons -->
+  <div class="buttons-container" id="buttons-container" style="display: none;"></div>
+
+  <!-- Score et chronomètre -->
+  <div class="score">Score: <span id="score">0</span></div>
+  <div class="timer">Temps restant : <span id="timer">00:00</span></div>
+
+  <!-- Rejouer -->
+  <div id="replay-container" style="display: none;">
+    <button class="button" id="replay-button">Rejouer</button>
+  </div>
+
+  <!-- Script principal -->
+  <script src="script.js" defer></script>
+
+</body>
+</html>

@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <title>Jeu - Pan & Sélection Séquentielle</title>
+  <!-- Lien vers le CSS -->
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+<h1>Jeu : Pan & Sélection Séquentielle</h1>
+
+<!-- Étape 1 : Choix & Saisie -->
+<section id="step1">
+  <h2>Étape 1 : Choix de l'image & Infos</h2>
+  <label for="imageSelect">Choisir une image :</label>
+  <select id="imageSelect"></select>
+
+  <label for="titleInput">Titre de la liste :</label>
+  <input type="text" id="titleInput" placeholder="Ex : Vêtements" />
+
+  <label for="wordsInput">Liste de mots (séparés par virgules) :</label>
+  <textarea id="wordsInput" rows="3" placeholder="un vestido, una falda..."></textarea>
+
+  <button id="btnNext1">Étape suivante</button>
+</section>
+
+<!-- Étape 2 : Positionner (pan) l'image -->
+<section id="step2" style="display:none;">
+  <h2>Étape 2 : Positionner l'image</h2>
+  <div id="imageWrapper" class="image-wrapper">
+    <img id="pannableImage" src="" alt="Image à panner" draggable="false" />
+  </div>
+
+  <button id="btnLockPosition">Verrouiller la position</button>
+</section>
+
+<!-- Étape 3 : Parcours séquentiel des mots -->
+<section id="step3" style="display:none;">
+  <h2>Étape 3 : Sélection des zones</h2>
+
+  <p id="currentWordDisplay" class="word-display"></p>
+  <button id="btnAnnuler" style="display:none;">Annuler</button>
+
+  <div id="imageWrapper3" class="image-wrapper">
+    <img id="selectableImage" src="" alt="Image sélection" draggable="false" />
+    <div id="mask" class="mask"></div>
+  </div>
+</section>
+
+<!-- Étape 4 : Récap -->
+<section id="step4" style="display:none;">
+  <h2>Étape 4 : Récapitulatif</h2>
+  <pre id="summaryPre"></pre>
+  <button id="btnSendToServer">Envoyer au serveur</button>
+  <p id="serverResponse" style="color: green;"></p>
+</section>
+
+<!-- Script principal -->
+<script src="script.js"></script>
+</body>
+</html>
